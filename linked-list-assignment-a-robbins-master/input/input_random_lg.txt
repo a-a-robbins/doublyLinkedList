@@ -1,0 +1,1500 @@
+rfront
+iat 1933 19
+front
+size
+iback 6555
+iback 6406
+rback
+iback 3595
+ifront 4036
+rback
+ifront 2525
+at 5721
+back
+rback
+back
+rat 5921
+print
+iback 9942
+empty
+size
+at 4569
+rback
+iat 8056 37
+iat 6345 15
+size
+at 8257
+front
+back
+size
+rback
+iat 6552 0
+ifront 9473
+back
+ifront 1926
+ifront 6534
+empty
+rback
+empty
+empty
+size
+iback 3124
+back
+rback
+rat 5451
+iat 1959 43
+back
+front
+iback 6475
+back
+back
+rback
+at 9380
+ifront 3006
+iat 8085 21
+back
+print
+back
+rback
+at 6564
+rat 6390
+printr
+print
+rfront
+rfront
+printr
+rback
+at 6247
+rat 7745
+rback
+rback
+iat 7706 42
+size
+empty
+size
+at 5096
+back
+print
+empty
+size
+rback
+rat 416
+back
+size
+print
+rback
+printr
+iback 4484
+rback
+rfront
+rat 5031
+iat 296 8
+empty
+printr
+empty
+iat 6169 12
+size
+empty
+rfront
+size
+iat 7958 31
+front
+iat 4489 35
+print
+iat 7052 11
+empty
+front
+size
+back
+iback 8935
+at 452
+front
+iat 6232 39
+at 5797
+back
+size
+size
+at 1373
+empty
+front
+rfront
+rback
+rfront
+iat 3009 47
+iback 8420
+iback 5293
+empty
+rfront
+printr
+front
+size
+empty
+iat 7968 20
+at 2583
+ifront 8682
+front
+front
+back
+print
+rfront
+iat 5038 15
+print
+ifront 3463
+at 2848
+at 2490
+printr
+iback 6366
+rfront
+size
+size
+at 4904
+at 8698
+rat 719
+front
+at 3380
+size
+back
+iat 8096 20
+front
+rback
+rback
+iat 615 20
+front
+printr
+empty
+print
+ifront 1146
+front
+print
+rfront
+size
+at 6881
+rback
+iat 809 0
+size
+at 8686
+printr
+rfront
+at 5963
+size
+print
+ifront 6741
+empty
+iat 9682 36
+printr
+iback 6649
+front
+empty
+at 7923
+iback 460
+size
+rat 6432
+print
+at 7496
+rback
+rback
+print
+rback
+back
+empty
+rfront
+rback
+printr
+size
+back
+print
+iback 1586
+ifront 7640
+rat 7265
+front
+front
+print
+empty
+back
+back
+at 2383
+empty
+rback
+empty
+size
+rat 5870
+rfront
+iat 9218 31
+front
+printr
+rat 4576
+iback 5241
+ifront 5555
+front
+rat 2014
+at 7656
+rfront
+empty
+print
+printr
+front
+ifront 5035
+back
+printr
+front
+ifront 2221
+iback 3181
+rat 5431
+print
+iat 8708 32
+rback
+iat 6784 15
+iat 6145 28
+at 4911
+rat 2464
+ifront 2716
+printr
+iat 4395 16
+back
+print
+printr
+size
+printr
+at 7870
+ifront 3578
+iat 705 21
+front
+iback 7673
+empty
+rat 4653
+at 745
+print
+rfront
+empty
+at 5663
+size
+back
+front
+back
+size
+ifront 3986
+empty
+back
+print
+printr
+rback
+front
+rback
+back
+rback
+at 7589
+print
+iback 3175
+printr
+print
+ifront 1392
+front
+size
+front
+printr
+at 5971
+back
+back
+print
+back
+rat 6450
+ifront 4175
+ifront 4965
+size
+printr
+iat 9482 24
+iback 2444
+size
+empty
+back
+ifront 6273
+rback
+rback
+front
+print
+front
+rat 6583
+empty
+back
+back
+empty
+rat 7296
+rat 9929
+rat 2869
+rback
+print
+iat 2161 5
+printr
+print
+ifront 1070
+at 1930
+back
+front
+at 4351
+empty
+rfront
+iat 5470 39
+rback
+rback
+rback
+rat 9088
+printr
+at 1271
+front
+rat 7477
+iat 7568 33
+ifront 8532
+ifront 5434
+printr
+rfront
+rfront
+at 8832
+at 2426
+front
+rfront
+print
+rfront
+rfront
+print
+rfront
+ifront 5240
+rat 2398
+rfront
+rback
+empty
+empty
+empty
+print
+size
+iat 7122 23
+iback 2426
+iat 5754 40
+back
+at 5792
+at 7292
+iback 4631
+front
+rfront
+printr
+size
+back
+front
+rat 3692
+iback 7961
+rat 8317
+at 7746
+ifront 6045
+empty
+printr
+iback 2262
+rfront
+size
+front
+printr
+printr
+print
+rback
+rfront
+empty
+size
+iback 1364
+front
+front
+ifront 4670
+iback 2042
+rfront
+empty
+iat 614 5
+front
+iat 8111 15
+ifront 9913
+rback
+empty
+iat 974 29
+print
+iback 5533
+printr
+iat 6332 16
+rback
+rfront
+back
+back
+printr
+back
+back
+at 429
+print
+at 496
+ifront 5318
+iat 673 25
+rfront
+printr
+iback 9036
+print
+back
+iback 3648
+rback
+iback 4524
+iback 2655
+empty
+print
+rfront
+iat 5497 9
+size
+rfront
+print
+print
+front
+ifront 4140
+front
+size
+ifront 6185
+rfront
+at 5810
+rback
+rat 2803
+ifront 9310
+back
+rback
+empty
+rat 2675
+iat 7094 31
+print
+iback 8086
+empty
+print
+iat 5827 0
+rback
+rback
+rfront
+at 255
+at 2952
+size
+size
+at 3976
+empty
+iat 7098 22
+iback 5817
+rfront
+rfront
+empty
+ifront 5263
+at 7563
+printr
+size
+back
+printr
+print
+printr
+rat 3069
+ifront 1683
+iback 8301
+empty
+rfront
+rat 4404
+empty
+iat 1635 44
+ifront 1
+print
+rfront
+rfront
+rfront
+ifront 3534
+front
+back
+iat 4795 4
+rback
+iat 4223 28
+front
+front
+iat 3330 15
+at 1692
+print
+iat 1700 43
+rfront
+print
+rat 1102
+size
+print
+rat 1036
+iat 6366 13
+rat 1073
+rback
+rat 9774
+rat 7407
+iback 6626
+rback
+at 8153
+size
+front
+rat 4510
+rat 5646
+iat 2983 28
+rback
+printr
+size
+printr
+front
+rback
+rat 9021
+iat 4643 49
+iat 3161 15
+iat 8056 44
+iat 9543 0
+ifront 8474
+ifront 620
+empty
+at 7188
+empty
+iback 9829
+iback 337
+print
+rat 7924
+at 3001
+iat 9887 41
+iback 4669
+rfront
+ifront 9221
+back
+iat 9302 44
+rfront
+print
+ifront 5813
+print
+back
+size
+front
+at 7848
+iat 9696 42
+iat 376 47
+rat 99
+at 280
+printr
+size
+iback 588
+at 42
+printr
+rback
+iat 9823 12
+back
+at 2108
+back
+rback
+iback 1463
+iat 9451 17
+rback
+rfront
+rback
+front
+at 4651
+ifront 8479
+iat 6405 41
+at 9474
+rat 5304
+front
+print
+empty
+rfront
+rat 6563
+size
+back
+at 2907
+size
+printr
+rat 8776
+printr
+size
+at 3572
+rback
+iat 4787 36
+rat 7222
+ifront 4697
+iat 95 36
+rat 3266
+empty
+size
+empty
+front
+rat 6163
+size
+at 9933
+ifront 9560
+rback
+iback 222
+iat 9388 31
+ifront 1477
+print
+iback 3619
+empty
+rback
+rfront
+rat 7360
+empty
+ifront 3616
+rback
+rat 8817
+size
+print
+at 7033
+print
+rback
+rat 1394
+back
+at 3917
+iat 9453 10
+print
+print
+back
+size
+size
+rback
+rfront
+size
+rback
+print
+iat 4027 35
+back
+iat 16 22
+at 8581
+at 3768
+iat 4694 6
+ifront 4576
+rfront
+rfront
+at 1366
+iback 5369
+iback 1382
+rat 2641
+rfront
+back
+size
+back
+rfront
+at 5432
+empty
+iback 71
+iback 497
+empty
+iback 9337
+at 9011
+size
+ifront 3401
+printr
+rback
+print
+printr
+iat 1104 42
+rfront
+back
+size
+print
+rat 2057
+front
+iback 8818
+printr
+front
+rback
+printr
+ifront 3111
+front
+iback 7227
+print
+ifront 2793
+at 881
+printr
+ifront 5678
+size
+rback
+empty
+front
+size
+ifront 6939
+ifront 14
+ifront 7633
+rfront
+back
+size
+rat 2311
+ifront 1073
+rback
+empty
+print
+rback
+print
+iback 4175
+iback 1754
+print
+front
+at 8169
+rfront
+iback 654
+rback
+at 2268
+rback
+print
+rat 9911
+empty
+rfront
+front
+back
+rfront
+print
+iback 3136
+rat 8883
+front
+printr
+empty
+empty
+empty
+iat 9573 31
+printr
+size
+rback
+iat 6463 12
+ifront 5221
+rat 9003
+empty
+rfront
+rat 5708
+size
+iback 8454
+rat 5208
+size
+at 4093
+size
+iat 5889 27
+ifront 110
+printr
+rback
+rat 4392
+rback
+rback
+ifront 2708
+ifront 9202
+empty
+printr
+rback
+empty
+ifront 647
+size
+empty
+iback 9063
+print
+rfront
+print
+ifront 802
+print
+size
+size
+rback
+front
+iback 5400
+back
+empty
+iat 5616 46
+size
+empty
+rback
+ifront 6688
+size
+at 6894
+rfront
+at 2417
+ifront 8663
+iback 7796
+empty
+at 1874
+size
+iback 5269
+rfront
+iback 5346
+rfront
+rat 8388
+front
+size
+at 8640
+printr
+at 6497
+ifront 9252
+print
+at 8234
+iat 8926 33
+at 8280
+empty
+rback
+iat 5535 6
+printr
+print
+rat 193
+back
+iback 3825
+size
+size
+rfront
+rat 7327
+empty
+empty
+ifront 7226
+iback 4249
+print
+rback
+iback 8940
+front
+print
+back
+ifront 6182
+empty
+empty
+size
+rat 2333
+size
+back
+at 789
+print
+iback 186
+ifront 4368
+at 4225
+iback 2897
+iat 5085 16
+ifront 7971
+iat 4142 15
+back
+iback 4240
+empty
+rback
+printr
+rfront
+empty
+ifront 3241
+iat 5480 10
+print
+rat 8607
+rat 4875
+size
+size
+empty
+at 7397
+front
+printr
+back
+ifront 861
+size
+size
+iat 8381 43
+ifront 9697
+rat 5767
+back
+print
+back
+back
+empty
+at 3309
+size
+rback
+rat 4957
+size
+print
+empty
+rfront
+rat 7834
+front
+ifront 3530
+empty
+front
+front
+rat 4213
+ifront 5144
+back
+rback
+rback
+rfront
+printr
+printr
+print
+rat 1403
+print
+size
+at 5333
+size
+rat 8134
+size
+back
+print
+ifront 2425
+rback
+ifront 8642
+rback
+rback
+back
+rat 4332
+rback
+rfront
+iat 2946 13
+empty
+back
+printr
+iat 9995 42
+rback
+printr
+at 4971
+iat 2386 16
+ifront 4515
+rfront
+printr
+rback
+ifront 881
+iat 635 47
+printr
+rfront
+printr
+ifront 1675
+front
+back
+front
+size
+at 593
+back
+rback
+printr
+rback
+size
+iback 4405
+print
+front
+rat 74
+iback 8821
+rfront
+rat 7338
+iback 1698
+iat 8327 10
+front
+rat 7842
+back
+rat 1331
+rback
+iat 4409 21
+rfront
+ifront 7456
+ifront 5290
+rat 6784
+rback
+at 8328
+iat 2197 38
+back
+ifront 9971
+print
+back
+iat 1699 22
+iback 3535
+print
+back
+printr
+back
+size
+at 831
+empty
+front
+back
+empty
+rback
+rat 2232
+at 7129
+print
+rat 7917
+print
+ifront 9399
+printr
+iat 6966 1
+at 4800
+rfront
+print
+front
+rback
+back
+front
+iback 541
+front
+printr
+printr
+back
+rfront
+iat 1609 7
+size
+rback
+rat 1415
+ifront 9348
+print
+rat 2760
+empty
+printr
+iat 241 22
+empty
+printr
+size
+rat 5746
+rback
+size
+printr
+rback
+rat 8485
+size
+iback 8833
+size
+printr
+printr
+at 633
+print
+front
+print
+back
+empty
+size
+at 1876
+at 8194
+empty
+print
+ifront 4326
+empty
+printr
+iback 5250
+empty
+rat 989
+iback 7659
+at 1511
+size
+size
+rback
+print
+empty
+rfront
+back
+iat 3383 25
+rat 930
+printr
+size
+front
+front
+at 7312
+print
+rback
+empty
+size
+front
+back
+rat 4492
+rback
+rfront
+front
+at 6718
+rfront
+printr
+empty
+at 9068
+rat 8738
+back
+rat 8811
+printr
+rat 6859
+front
+printr
+rback
+iback 8319
+iback 509
+print
+size
+iback 7745
+rat 3176
+at 4209
+print
+iback 7184
+iback 1211
+rat 970
+front
+print
+ifront 8362
+empty
+size
+print
+at 1588
+iat 456 46
+back
+rat 2568
+size
+rback
+at 6293
+iat 7898 31
+rfront
+empty
+iat 9693 38
+rback
+ifront 8236
+printr
+back
+print
+iback 3426
+printr
+front
+print
+rback
+back
+rback
+printr
+back
+rfront
+printr
+size
+print
+iback 1944
+size
+back
+iback 7768
+rat 4952
+iat 2921 19
+rfront
+rat 2032
+ifront 733
+printr
+iat 5421 43
+empty
+iat 4787 43
+ifront 3239
+printr
+ifront 3611
+printr
+print
+empty
+back
+at 9675
+iat 3749 42
+empty
+ifront 3277
+iback 2490
+rat 8894
+printr
+back
+iat 3477 28
+print
+empty
+empty
+iback 1477
+rat 231
+iback 4619
+size
+size
+printr
+rfront
+rat 6079
+ifront 5158
+iat 6816 38
+rback
+printr
+at 7423
+rat 4099
+rat 6708
+rat 9410
+empty
+iat 1444 47
+size
+size
+iback 6213
+at 9577
+rat 3995
+rback
+printr
+rat 1735
+rat 3774
+front
+at 1930
+size
+at 9233
+size
+back
+print
+front
+ifront 498
+rat 2929
+rfront
+front
+ifront 4134
+printr
+print
+rback
+iback 9802
+rat 8271
+printr
+print
+iback 5415
+printr
+print
+empty
+back
+iat 630 25
+at 8098
+printr
+rback
+print
+rfront
+at 1267
+empty
+size
+size
+back
+at 4961
+printr
+print
+ifront 458
+back
+iat 1545 25
+printr
+at 1273
+at 4582
+rfront
+back
+empty
+ifront 3523
+at 5545
+front
+rfront
+printr
+size
+rat 3581
+iat 7577 9
+iat 6559 29
+empty
+back
+size
+size
+size
+back
+print
+at 3787
+iback 7736
+ifront 190
+ifront 8179
+at 3408
+size
+rat 2015
+back
+printr
+rback
+rfront
+printr
+front
+ifront 8045
+print
+iback 1276
+size
+rfront
+iback 8540
+rback
+print
+iback 1698
+empty
+rfront
+back
+empty
+rat 2570
+rat 6301
+size
+back
+rback
+ifront 7089
+printr
+iat 388 45
+rfront
+back
+rat 3690
+rfront
+rat 6847
+print
+ifront 5271
+iat 5557 15
+empty
+size
+empty
+iback 9493
+iback 1272
+ifront 7275
+ifront 8938
+rat 5119
+ifront 2277
+size
+front
+at 6492
+rback
+empty
+print
+print
+rat 2808
+iat 9681 16
+iback 3684
+back
+iat 523 23
+ifront 2131
+front
+size
+empty
+ifront 7680
+rback
+empty
+front
+back
+empty
+ifront 8442
+back
+print
+rback
+ifront 8617
+rback
+print
+size
+printr
+front
+iback 8456
+printr
+back
+print
+rfront
+ifront 7473
+front
+iat 4469 21
+printr
+rback
+at 7046
+rback
+rfront
+at 2254
+ifront 9417
+printr
+ifront 8896
+iat 9930 38
+back
+iat 8146 13
+rat 1665
+rat 602
+back
+front
+at 4919
+rfront
+rfront
+front
+empty
+iat 1323 3
+front
+size
+rfront
+rat 6299
+size
+empty
+back
+iat 9643 39
+rfront
+rfront
+size
+iat 7932 47
+rback
+rback
+rfront
+front
+iat 890 20
+at 2665
+rat 2907
+print
+at 5201
+rat 3272
+rat 8094
+empty
+ifront 1517
+rat 2442
+print
+front
+ifront 327
+back
+iback 6966
+rfront
+print
+at 3023
+rat 7301
+rback
+iat 8492 9
+rfront
+printr
+ifront 8209
+rat 7190
+iback 1617
+front
+size
+iback 1430
+iat 5536 7
+empty
+front
+size
+print
+back
+empty
+empty
+empty
+iback 4625
+size
+size
+front
+print
+front
+size
+ifront 7229
+rat 2057
+printr
+empty
+iat 2680 10
+iback 6541
+rat 9133
+printr
+ifront 8131
+printr
+empty
+at 616
+back
+empty
+rat 2345
+size
+at 1237
+print
+print
+rfront
+rat 618
+size
+rback
+size
+rfront
+iback 4869
+ifront 6496
+iat 2763 6
+iat 1230 13
+rfront
+printr
+size
+rfront
+empty
+size
+empty
+front
+iat 4032 10
+iback 7336
+rfront
+empty
+size
+rback
+front
+print
+printr
+print
+back
+ifront 3233
+rfront
+ifront 3130
+empty
+print
+rat 347
+empty
+rback
+back

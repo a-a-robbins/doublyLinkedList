@@ -1,0 +1,29 @@
+ifront 1
+print
+iback 2
+print
+ifront 3
+print
+iback 4
+front
+iback 5
+back
+iat 6 2
+print
+ifront 7
+rfront
+front
+print
+iback 8
+back
+rprint
+rback
+back
+print
+rprint
+iat 10 3
+print
+rback
+print
+rback
+print

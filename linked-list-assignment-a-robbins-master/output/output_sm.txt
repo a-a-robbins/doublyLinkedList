@@ -1,0 +1,55 @@
+Accepting input
+Running command: ifront
+inserted 1
+Running command: print
+front --> 1 --> back
+Running command: iback
+inserted 2
+Running command: print
+front --> 1 --> 2 --> back
+Running command: ifront
+inserted 3
+Running command: print
+front --> 3 --> 1 --> 2 --> back
+Running command: iback
+inserted 4
+Running command: front
+front: 3
+Running command: iback
+inserted 5
+Running command: back
+back: 5
+Running command: iat
+inserted 6 at position 2
+Running command: print
+front --> 3 --> 1 --> 6 --> 2 --> 4 --> 5 --> back
+Running command: ifront
+inserted 7
+Running command: rfront
+Running command: front
+front: 3
+Running command: print
+front --> 3 --> 1 --> 6 --> 2 --> 4 --> 5 --> back
+Running command: iback
+inserted 8
+Running command: back
+back: 8
+Running command: rprint
+Unknown cmd: rprint
+Running command: rback
+Running command: back
+back: 5
+Running command: print
+front --> 3 --> 1 --> 6 --> 2 --> 4 --> 5 --> back
+Running command: rprint
+Unknown cmd: rprint
+Running command: iat
+inserted 10 at position 3
+Running command: print
+front --> 3 --> 1 --> 6 --> 10 --> 2 --> 4 --> 5 --> back
+Running command: rback
+Running command: print
+front --> 3 --> 1 --> 6 --> 10 --> 2 --> 4 --> back
+Running command: rback
+Running command: print
+front --> 3 --> 1 --> 6 --> 10 --> 2 --> back

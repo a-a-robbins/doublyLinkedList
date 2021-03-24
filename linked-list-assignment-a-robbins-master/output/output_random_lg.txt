@@ -1,0 +1,2652 @@
+Accepting input
+Running command: rfront
+warning: list appears to be empty
+Running command: iat
+inserted 1933 at position 19
+Running command: front
+front: 1933
+Running command: size
+List length: 1
+Running command: iback
+inserted 6555
+Running command: iback
+inserted 6406
+Running command: rback
+Running command: iback
+inserted 3595
+Running command: ifront
+inserted 4036
+Running command: rback
+Running command: ifront
+inserted 2525
+Running command: at
+warning: couldn't get position 5721
+Running command: back
+back: 6555
+Running command: rback
+Running command: back
+back: 1933
+Running command: rat
+Running command: print
+front --> 2525 --> 4036 --> 1933 --> back
+Running command: iback
+inserted 9942
+Running command: empty
+list is not empty
+Running command: size
+List length: 4
+Running command: at
+warning: couldn't get position 4569
+Running command: rback
+Running command: iat
+inserted 8056 at position 37
+Running command: iat
+inserted 6345 at position 15
+Running command: size
+List length: 5
+Running command: at
+warning: couldn't get position 8257
+Running command: front
+front: 2525
+Running command: back
+back: 6345
+Running command: size
+List length: 5
+Running command: rback
+Running command: iat
+inserted 6552 at position 0
+Running command: ifront
+inserted 9473
+Running command: back
+back: 8056
+Running command: ifront
+inserted 1926
+Running command: ifront
+inserted 6534
+Running command: empty
+list is not empty
+Running command: rback
+Running command: empty
+list is not empty
+Running command: empty
+list is not empty
+Running command: size
+List length: 7
+Running command: iback
+inserted 3124
+Running command: back
+back: 3124
+Running command: rback
+Running command: rat
+Running command: iat
+inserted 1959 at position 43
+Running command: back
+back: 1959
+Running command: front
+front: 6534
+Running command: iback
+inserted 6475
+Running command: back
+back: 6475
+Running command: back
+back: 6475
+Running command: rback
+Running command: at
+warning: couldn't get position 9380
+Running command: ifront
+inserted 3006
+Running command: iat
+inserted 8085 at position 21
+Running command: back
+back: 8085
+Running command: print
+front --> 3006 --> 6534 --> 1926 --> 9473 --> 6552 --> 2525 --> 4036 --> 1933 --> 1959 --> 8085 --> back
+Running command: back
+back: 8085
+Running command: rback
+Running command: at
+warning: couldn't get position 6564
+Running command: rat
+Running command: printr
+back --> 1959 --> 1933 --> 4036 --> 2525 --> 6552 --> 9473 --> 1926 --> 6534 --> 3006 --> front
+Running command: print
+front --> 3006 --> 6534 --> 1926 --> 9473 --> 6552 --> 2525 --> 4036 --> 1933 --> 1959 --> back
+Running command: rfront
+Running command: rfront
+Running command: printr
+back --> 1959 --> 1933 --> 4036 --> 2525 --> 6552 --> 9473 --> 1926 --> front
+Running command: rback
+Running command: at
+warning: couldn't get position 6247
+Running command: rat
+Running command: rback
+Running command: rback
+Running command: iat
+inserted 7706 at position 42
+Running command: size
+List length: 5
+Running command: empty
+list is not empty
+Running command: size
+List length: 5
+Running command: at
+warning: couldn't get position 5096
+Running command: back
+back: 7706
+Running command: print
+front --> 1926 --> 9473 --> 6552 --> 2525 --> 7706 --> back
+Running command: empty
+list is not empty
+Running command: size
+List length: 5
+Running command: rback
+Running command: rat
+Running command: back
+back: 2525
+Running command: size
+List length: 4
+Running command: print
+front --> 1926 --> 9473 --> 6552 --> 2525 --> back
+Running command: rback
+Running command: printr
+back --> 6552 --> 9473 --> 1926 --> front
+Running command: iback
+inserted 4484
+Running command: rback
+Running command: rfront
+Running command: rat
+Running command: iat
+inserted 296 at position 8
+Running command: empty
+list is not empty
+Running command: printr
+back --> 296 --> 6552 --> 9473 --> front
+Running command: empty
+list is not empty
+Running command: iat
+inserted 6169 at position 12
+Running command: size
+List length: 4
+Running command: empty
+list is not empty
+Running command: rfront
+Running command: size
+List length: 3
+Running command: iat
+inserted 7958 at position 31
+Running command: front
+front: 6552
+Running command: iat
+inserted 4489 at position 35
+Running command: print
+front --> 6552 --> 296 --> 6169 --> 7958 --> 4489 --> back
+Running command: iat
+inserted 7052 at position 11
+Running command: empty
+list is not empty
+Running command: front
+front: 6552
+Running command: size
+List length: 6
+Running command: back
+back: 7052
+Running command: iback
+inserted 8935
+Running command: at
+warning: couldn't get position 452
+Running command: front
+front: 6552
+Running command: iat
+inserted 6232 at position 39
+Running command: at
+warning: couldn't get position 5797
+Running command: back
+back: 6232
+Running command: size
+List length: 8
+Running command: size
+List length: 8
+Running command: at
+warning: couldn't get position 1373
+Running command: empty
+list is not empty
+Running command: front
+front: 6552
+Running command: rfront
+Running command: rback
+Running command: rfront
+Running command: iat
+inserted 3009 at position 47
+Running command: iback
+inserted 8420
+Running command: iback
+inserted 5293
+Running command: empty
+list is not empty
+Running command: rfront
+Running command: printr
+back --> 5293 --> 8420 --> 3009 --> 8935 --> 7052 --> 4489 --> 7958 --> front
+Running command: front
+front: 7958
+Running command: size
+List length: 7
+Running command: empty
+list is not empty
+Running command: iat
+inserted 7968 at position 20
+Running command: at
+warning: couldn't get position 2583
+Running command: ifront
+inserted 8682
+Running command: front
+front: 8682
+Running command: front
+front: 8682
+Running command: back
+back: 7968
+Running command: print
+front --> 8682 --> 7958 --> 4489 --> 7052 --> 8935 --> 3009 --> 8420 --> 5293 --> 7968 --> back
+Running command: rfront
+Running command: iat
+inserted 5038 at position 15
+Running command: print
+front --> 7958 --> 4489 --> 7052 --> 8935 --> 3009 --> 8420 --> 5293 --> 7968 --> 5038 --> back
+Running command: ifront
+inserted 3463
+Running command: at
+warning: couldn't get position 2848
+Running command: at
+warning: couldn't get position 2490
+Running command: printr
+back --> 5038 --> 7968 --> 5293 --> 8420 --> 3009 --> 8935 --> 7052 --> 4489 --> 7958 --> 3463 --> front
+Running command: iback
+inserted 6366
+Running command: rfront
+Running command: size
+List length: 10
+Running command: size
+List length: 10
+Running command: at
+warning: couldn't get position 4904
+Running command: at
+warning: couldn't get position 8698
+Running command: rat
+Running command: front
+front: 7958
+Running command: at
+warning: couldn't get position 3380
+Running command: size
+List length: 10
+Running command: back
+back: 6366
+Running command: iat
+inserted 8096 at position 20
+Running command: front
+front: 7958
+Running command: rback
+Running command: rback
+Running command: iat
+inserted 615 at position 20
+Running command: front
+front: 7958
+Running command: printr
+back --> 615 --> 5038 --> 7968 --> 5293 --> 8420 --> 3009 --> 8935 --> 7052 --> 4489 --> 7958 --> front
+Running command: empty
+list is not empty
+Running command: print
+front --> 7958 --> 4489 --> 7052 --> 8935 --> 3009 --> 8420 --> 5293 --> 7968 --> 5038 --> 615 --> back
+Running command: ifront
+inserted 1146
+Running command: front
+front: 1146
+Running command: print
+front --> 1146 --> 7958 --> 4489 --> 7052 --> 8935 --> 3009 --> 8420 --> 5293 --> 7968 --> 5038 --> 615 --> back
+Running command: rfront
+Running command: size
+List length: 10
+Running command: at
+warning: couldn't get position 6881
+Running command: rback
+Running command: iat
+inserted 809 at position 0
+Running command: size
+List length: 10
+Running command: at
+warning: couldn't get position 8686
+Running command: printr
+back --> 5038 --> 7968 --> 5293 --> 8420 --> 3009 --> 8935 --> 7052 --> 4489 --> 7958 --> 809 --> front
+Running command: rfront
+Running command: at
+warning: couldn't get position 5963
+Running command: size
+List length: 9
+Running command: print
+front --> 7958 --> 4489 --> 7052 --> 8935 --> 3009 --> 8420 --> 5293 --> 7968 --> 5038 --> back
+Running command: ifront
+inserted 6741
+Running command: empty
+list is not empty
+Running command: iat
+inserted 9682 at position 36
+Running command: printr
+back --> 9682 --> 5038 --> 7968 --> 5293 --> 8420 --> 3009 --> 8935 --> 7052 --> 4489 --> 7958 --> 6741 --> front
+Running command: iback
+inserted 6649
+Running command: front
+front: 6741
+Running command: empty
+list is not empty
+Running command: at
+warning: couldn't get position 7923
+Running command: iback
+inserted 460
+Running command: size
+List length: 13
+Running command: rat
+Running command: print
+front --> 6741 --> 7958 --> 4489 --> 7052 --> 8935 --> 3009 --> 8420 --> 5293 --> 7968 --> 5038 --> 9682 --> 6649 --> 460 --> back
+Running command: at
+warning: couldn't get position 7496
+Running command: rback
+Running command: rback
+Running command: print
+front --> 6741 --> 7958 --> 4489 --> 7052 --> 8935 --> 3009 --> 8420 --> 5293 --> 7968 --> 5038 --> 9682 --> back
+Running command: rback
+Running command: back
+back: 5038
+Running command: empty
+list is not empty
+Running command: rfront
+Running command: rback
+Running command: printr
+back --> 7968 --> 5293 --> 8420 --> 3009 --> 8935 --> 7052 --> 4489 --> 7958 --> front
+Running command: size
+List length: 8
+Running command: back
+back: 7968
+Running command: print
+front --> 7958 --> 4489 --> 7052 --> 8935 --> 3009 --> 8420 --> 5293 --> 7968 --> back
+Running command: iback
+inserted 1586
+Running command: ifront
+inserted 7640
+Running command: rat
+Running command: front
+front: 7640
+Running command: front
+front: 7640
+Running command: print
+front --> 7640 --> 7958 --> 4489 --> 7052 --> 8935 --> 3009 --> 8420 --> 5293 --> 7968 --> 1586 --> back
+Running command: empty
+list is not empty
+Running command: back
+back: 1586
+Running command: back
+back: 1586
+Running command: at
+warning: couldn't get position 2383
+Running command: empty
+list is not empty
+Running command: rback
+Running command: empty
+list is not empty
+Running command: size
+List length: 9
+Running command: rat
+Running command: rfront
+Running command: iat
+inserted 9218 at position 31
+Running command: front
+front: 7958
+Running command: printr
+back --> 9218 --> 7968 --> 5293 --> 8420 --> 3009 --> 8935 --> 7052 --> 4489 --> 7958 --> front
+Running command: rat
+Running command: iback
+inserted 5241
+Running command: ifront
+inserted 5555
+Running command: front
+front: 5555
+Running command: rat
+Running command: at
+warning: couldn't get position 7656
+Running command: rfront
+Running command: empty
+list is not empty
+Running command: print
+front --> 7958 --> 4489 --> 7052 --> 8935 --> 3009 --> 8420 --> 5293 --> 7968 --> 9218 --> 5241 --> back
+Running command: printr
+back --> 5241 --> 9218 --> 7968 --> 5293 --> 8420 --> 3009 --> 8935 --> 7052 --> 4489 --> 7958 --> front
+Running command: front
+front: 7958
+Running command: ifront
+inserted 5035
+Running command: back
+back: 5241
+Running command: printr
+back --> 5241 --> 9218 --> 7968 --> 5293 --> 8420 --> 3009 --> 8935 --> 7052 --> 4489 --> 7958 --> 5035 --> front
+Running command: front
+front: 5035
+Running command: ifront
+inserted 2221
+Running command: iback
+inserted 3181
+Running command: rat
+Running command: print
+front --> 2221 --> 5035 --> 7958 --> 4489 --> 7052 --> 8935 --> 3009 --> 8420 --> 5293 --> 7968 --> 9218 --> 5241 --> 3181 --> back
+Running command: iat
+inserted 8708 at position 32
+Running command: rback
+Running command: iat
+inserted 6784 at position 15
+Running command: iat
+inserted 6145 at position 28
+Running command: at
+warning: couldn't get position 4911
+Running command: rat
+Running command: ifront
+inserted 2716
+Running command: printr
+back --> 6145 --> 6784 --> 3181 --> 5241 --> 9218 --> 7968 --> 5293 --> 8420 --> 3009 --> 8935 --> 7052 --> 4489 --> 7958 --> 5035 --> 2221 --> 2716 --> front
+Running command: iat
+inserted 4395 at position 16
+Running command: back
+back: 4395
+Running command: print
+front --> 2716 --> 2221 --> 5035 --> 7958 --> 4489 --> 7052 --> 8935 --> 3009 --> 8420 --> 5293 --> 7968 --> 9218 --> 5241 --> 3181 --> 6784 --> 6145 --> 4395 --> back
+Running command: printr
+back --> 4395 --> 6145 --> 6784 --> 3181 --> 5241 --> 9218 --> 7968 --> 5293 --> 8420 --> 3009 --> 8935 --> 7052 --> 4489 --> 7958 --> 5035 --> 2221 --> 2716 --> front
+Running command: size
+List length: 17
+Running command: printr
+back --> 4395 --> 6145 --> 6784 --> 3181 --> 5241 --> 9218 --> 7968 --> 5293 --> 8420 --> 3009 --> 8935 --> 7052 --> 4489 --> 7958 --> 5035 --> 2221 --> 2716 --> front
+Running command: at
+warning: couldn't get position 7870
+Running command: ifront
+inserted 3578
+Running command: iat
+inserted 705 at position 21
+Running command: front
+front: 3578
+Running command: iback
+inserted 7673
+Running command: empty
+list is not empty
+Running command: rat
+Running command: at
+warning: couldn't get position 745
+Running command: print
+front --> 3578 --> 2716 --> 2221 --> 5035 --> 7958 --> 4489 --> 7052 --> 8935 --> 3009 --> 8420 --> 5293 --> 7968 --> 9218 --> 5241 --> 3181 --> 6784 --> 6145 --> 4395 --> 705 --> 7673 --> back
+Running command: rfront
+Running command: empty
+list is not empty
+Running command: at
+warning: couldn't get position 5663
+Running command: size
+List length: 19
+Running command: back
+back: 7673
+Running command: front
+front: 2716
+Running command: back
+back: 7673
+Running command: size
+List length: 19
+Running command: ifront
+inserted 3986
+Running command: empty
+list is not empty
+Running command: back
+back: 7673
+Running command: print
+front --> 3986 --> 2716 --> 2221 --> 5035 --> 7958 --> 4489 --> 7052 --> 8935 --> 3009 --> 8420 --> 5293 --> 7968 --> 9218 --> 5241 --> 3181 --> 6784 --> 6145 --> 4395 --> 705 --> 7673 --> back
+Running command: printr
+back --> 7673 --> 705 --> 4395 --> 6145 --> 6784 --> 3181 --> 5241 --> 9218 --> 7968 --> 5293 --> 8420 --> 3009 --> 8935 --> 7052 --> 4489 --> 7958 --> 5035 --> 2221 --> 2716 --> 3986 --> front
+Running command: rback
+Running command: front
+front: 3986
+Running command: rback
+Running command: back
+back: 4395
+Running command: rback
+Running command: at
+warning: couldn't get position 7589
+Running command: print
+front --> 3986 --> 2716 --> 2221 --> 5035 --> 7958 --> 4489 --> 7052 --> 8935 --> 3009 --> 8420 --> 5293 --> 7968 --> 9218 --> 5241 --> 3181 --> 6784 --> 6145 --> back
+Running command: iback
+inserted 3175
+Running command: printr
+back --> 3175 --> 6145 --> 6784 --> 3181 --> 5241 --> 9218 --> 7968 --> 5293 --> 8420 --> 3009 --> 8935 --> 7052 --> 4489 --> 7958 --> 5035 --> 2221 --> 2716 --> 3986 --> front
+Running command: print
+front --> 3986 --> 2716 --> 2221 --> 5035 --> 7958 --> 4489 --> 7052 --> 8935 --> 3009 --> 8420 --> 5293 --> 7968 --> 9218 --> 5241 --> 3181 --> 6784 --> 6145 --> 3175 --> back
+Running command: ifront
+inserted 1392
+Running command: front
+front: 1392
+Running command: size
+List length: 19
+Running command: front
+front: 1392
+Running command: printr
+back --> 3175 --> 6145 --> 6784 --> 3181 --> 5241 --> 9218 --> 7968 --> 5293 --> 8420 --> 3009 --> 8935 --> 7052 --> 4489 --> 7958 --> 5035 --> 2221 --> 2716 --> 3986 --> 1392 --> front
+Running command: at
+warning: couldn't get position 5971
+Running command: back
+back: 3175
+Running command: back
+back: 3175
+Running command: print
+front --> 1392 --> 3986 --> 2716 --> 2221 --> 5035 --> 7958 --> 4489 --> 7052 --> 8935 --> 3009 --> 8420 --> 5293 --> 7968 --> 9218 --> 5241 --> 3181 --> 6784 --> 6145 --> 3175 --> back
+Running command: back
+back: 3175
+Running command: rat
+Running command: ifront
+inserted 4175
+Running command: ifront
+inserted 4965
+Running command: size
+List length: 21
+Running command: printr
+back --> 3175 --> 6145 --> 6784 --> 3181 --> 5241 --> 9218 --> 7968 --> 5293 --> 8420 --> 3009 --> 8935 --> 7052 --> 4489 --> 7958 --> 5035 --> 2221 --> 2716 --> 3986 --> 1392 --> 4175 --> 4965 --> front
+Running command: iat
+inserted 9482 at position 24
+Running command: iback
+inserted 2444
+Running command: size
+List length: 23
+Running command: empty
+list is not empty
+Running command: back
+back: 2444
+Running command: ifront
+inserted 6273
+Running command: rback
+Running command: rback
+Running command: front
+front: 6273
+Running command: print
+front --> 6273 --> 4965 --> 4175 --> 1392 --> 3986 --> 2716 --> 2221 --> 5035 --> 7958 --> 4489 --> 7052 --> 8935 --> 3009 --> 8420 --> 5293 --> 7968 --> 9218 --> 5241 --> 3181 --> 6784 --> 6145 --> 3175 --> back
+Running command: front
+front: 6273
+Running command: rat
+Running command: empty
+list is not empty
+Running command: back
+back: 3175
+Running command: back
+back: 3175
+Running command: empty
+list is not empty
+Running command: rat
+Running command: rat
+Running command: rat
+Running command: rback
+Running command: print
+front --> 6273 --> 4965 --> 4175 --> 1392 --> 3986 --> 2716 --> 2221 --> 5035 --> 7958 --> 4489 --> 7052 --> 8935 --> 3009 --> 8420 --> 5293 --> 7968 --> 9218 --> 5241 --> 3181 --> 6784 --> 6145 --> back
+Running command: iat
+inserted 2161 at position 5
+Running command: printr
+back --> 6145 --> 6784 --> 3181 --> 5241 --> 9218 --> 7968 --> 5293 --> 8420 --> 3009 --> 8935 --> 7052 --> 4489 --> 7958 --> 5035 --> 2221 --> 2716 --> 2161 --> 3986 --> 1392 --> 4175 --> 4965 --> 6273 --> front
+Running command: print
+front --> 6273 --> 4965 --> 4175 --> 1392 --> 3986 --> 2161 --> 2716 --> 2221 --> 5035 --> 7958 --> 4489 --> 7052 --> 8935 --> 3009 --> 8420 --> 5293 --> 7968 --> 9218 --> 5241 --> 3181 --> 6784 --> 6145 --> back
+Running command: ifront
+inserted 1070
+Running command: at
+warning: couldn't get position 1930
+Running command: back
+back: 6145
+Running command: front
+front: 1070
+Running command: at
+warning: couldn't get position 4351
+Running command: empty
+list is not empty
+Running command: rfront
+Running command: iat
+inserted 5470 at position 39
+Running command: rback
+Running command: rback
+Running command: rback
+Running command: rat
+Running command: printr
+back --> 3181 --> 5241 --> 9218 --> 7968 --> 5293 --> 8420 --> 3009 --> 8935 --> 7052 --> 4489 --> 7958 --> 5035 --> 2221 --> 2716 --> 2161 --> 3986 --> 1392 --> 4175 --> 4965 --> 6273 --> front
+Running command: at
+warning: couldn't get position 1271
+Running command: front
+front: 6273
+Running command: rat
+Running command: iat
+inserted 7568 at position 33
+Running command: ifront
+inserted 8532
+Running command: ifront
+inserted 5434
+Running command: printr
+back --> 7568 --> 3181 --> 5241 --> 9218 --> 7968 --> 5293 --> 8420 --> 3009 --> 8935 --> 7052 --> 4489 --> 7958 --> 5035 --> 2221 --> 2716 --> 2161 --> 3986 --> 1392 --> 4175 --> 4965 --> 6273 --> 8532 --> 5434 --> front
+Running command: rfront
+Running command: rfront
+Running command: at
+warning: couldn't get position 8832
+Running command: at
+warning: couldn't get position 2426
+Running command: front
+front: 6273
+Running command: rfront
+Running command: print
+front --> 4965 --> 4175 --> 1392 --> 3986 --> 2161 --> 2716 --> 2221 --> 5035 --> 7958 --> 4489 --> 7052 --> 8935 --> 3009 --> 8420 --> 5293 --> 7968 --> 9218 --> 5241 --> 3181 --> 7568 --> back
+Running command: rfront
+Running command: rfront
+Running command: print
+front --> 1392 --> 3986 --> 2161 --> 2716 --> 2221 --> 5035 --> 7958 --> 4489 --> 7052 --> 8935 --> 3009 --> 8420 --> 5293 --> 7968 --> 9218 --> 5241 --> 3181 --> 7568 --> back
+Running command: rfront
+Running command: ifront
+inserted 5240
+Running command: rat
+Running command: rfront
+Running command: rback
+Running command: empty
+list is not empty
+Running command: empty
+list is not empty
+Running command: empty
+list is not empty
+Running command: print
+front --> 3986 --> 2161 --> 2716 --> 2221 --> 5035 --> 7958 --> 4489 --> 7052 --> 8935 --> 3009 --> 8420 --> 5293 --> 7968 --> 9218 --> 5241 --> 3181 --> back
+Running command: size
+List length: 16
+Running command: iat
+inserted 7122 at position 23
+Running command: iback
+inserted 2426
+Running command: iat
+inserted 5754 at position 40
+Running command: back
+back: 5754
+Running command: at
+warning: couldn't get position 5792
+Running command: at
+warning: couldn't get position 7292
+Running command: iback
+inserted 4631
+Running command: front
+front: 3986
+Running command: rfront
+Running command: printr
+back --> 4631 --> 5754 --> 2426 --> 7122 --> 3181 --> 5241 --> 9218 --> 7968 --> 5293 --> 8420 --> 3009 --> 8935 --> 7052 --> 4489 --> 7958 --> 5035 --> 2221 --> 2716 --> 2161 --> front
+Running command: size
+List length: 19
+Running command: back
+back: 4631
+Running command: front
+front: 2161
+Running command: rat
+Running command: iback
+inserted 7961
+Running command: rat
+Running command: at
+warning: couldn't get position 7746
+Running command: ifront
+inserted 6045
+Running command: empty
+list is not empty
+Running command: printr
+back --> 7961 --> 4631 --> 5754 --> 2426 --> 7122 --> 3181 --> 5241 --> 9218 --> 7968 --> 5293 --> 8420 --> 3009 --> 8935 --> 7052 --> 4489 --> 7958 --> 5035 --> 2221 --> 2716 --> 2161 --> 6045 --> front
+Running command: iback
+inserted 2262
+Running command: rfront
+Running command: size
+List length: 21
+Running command: front
+front: 2161
+Running command: printr
+back --> 2262 --> 7961 --> 4631 --> 5754 --> 2426 --> 7122 --> 3181 --> 5241 --> 9218 --> 7968 --> 5293 --> 8420 --> 3009 --> 8935 --> 7052 --> 4489 --> 7958 --> 5035 --> 2221 --> 2716 --> 2161 --> front
+Running command: printr
+back --> 2262 --> 7961 --> 4631 --> 5754 --> 2426 --> 7122 --> 3181 --> 5241 --> 9218 --> 7968 --> 5293 --> 8420 --> 3009 --> 8935 --> 7052 --> 4489 --> 7958 --> 5035 --> 2221 --> 2716 --> 2161 --> front
+Running command: print
+front --> 2161 --> 2716 --> 2221 --> 5035 --> 7958 --> 4489 --> 7052 --> 8935 --> 3009 --> 8420 --> 5293 --> 7968 --> 9218 --> 5241 --> 3181 --> 7122 --> 2426 --> 5754 --> 4631 --> 7961 --> 2262 --> back
+Running command: rback
+Running command: rfront
+Running command: empty
+list is not empty
+Running command: size
+List length: 19
+Running command: iback
+inserted 1364
+Running command: front
+front: 2716
+Running command: front
+front: 2716
+Running command: ifront
+inserted 4670
+Running command: iback
+inserted 2042
+Running command: rfront
+Running command: empty
+list is not empty
+Running command: iat
+inserted 614 at position 5
+Running command: front
+front: 2716
+Running command: iat
+inserted 8111 at position 15
+Running command: ifront
+inserted 9913
+Running command: rback
+Running command: empty
+list is not empty
+Running command: iat
+inserted 974 at position 29
+Running command: print
+front --> 9913 --> 2716 --> 2221 --> 5035 --> 7958 --> 4489 --> 614 --> 7052 --> 8935 --> 3009 --> 8420 --> 5293 --> 7968 --> 9218 --> 5241 --> 3181 --> 8111 --> 7122 --> 2426 --> 5754 --> 4631 --> 7961 --> 1364 --> 974 --> back
+Running command: iback
+inserted 5533
+Running command: printr
+back --> 5533 --> 974 --> 1364 --> 7961 --> 4631 --> 5754 --> 2426 --> 7122 --> 8111 --> 3181 --> 5241 --> 9218 --> 7968 --> 5293 --> 8420 --> 3009 --> 8935 --> 7052 --> 614 --> 4489 --> 7958 --> 5035 --> 2221 --> 2716 --> 9913 --> front
+Running command: iat
+inserted 6332 at position 16
+Running command: rback
+Running command: rfront
+Running command: back
+back: 974
+Running command: back
+back: 974
+Running command: printr
+back --> 974 --> 1364 --> 7961 --> 4631 --> 5754 --> 2426 --> 7122 --> 8111 --> 6332 --> 3181 --> 5241 --> 9218 --> 7968 --> 5293 --> 8420 --> 3009 --> 8935 --> 7052 --> 614 --> 4489 --> 7958 --> 5035 --> 2221 --> 2716 --> front
+Running command: back
+back: 974
+Running command: back
+back: 974
+Running command: at
+warning: couldn't get position 429
+Running command: print
+front --> 2716 --> 2221 --> 5035 --> 7958 --> 4489 --> 614 --> 7052 --> 8935 --> 3009 --> 8420 --> 5293 --> 7968 --> 9218 --> 5241 --> 3181 --> 6332 --> 8111 --> 7122 --> 2426 --> 5754 --> 4631 --> 7961 --> 1364 --> 974 --> back
+Running command: at
+warning: couldn't get position 496
+Running command: ifront
+inserted 5318
+Running command: iat
+inserted 673 at position 25
+Running command: rfront
+Running command: printr
+back --> 673 --> 974 --> 1364 --> 7961 --> 4631 --> 5754 --> 2426 --> 7122 --> 8111 --> 6332 --> 3181 --> 5241 --> 9218 --> 7968 --> 5293 --> 8420 --> 3009 --> 8935 --> 7052 --> 614 --> 4489 --> 7958 --> 5035 --> 2221 --> 2716 --> front
+Running command: iback
+inserted 9036
+Running command: print
+front --> 2716 --> 2221 --> 5035 --> 7958 --> 4489 --> 614 --> 7052 --> 8935 --> 3009 --> 8420 --> 5293 --> 7968 --> 9218 --> 5241 --> 3181 --> 6332 --> 8111 --> 7122 --> 2426 --> 5754 --> 4631 --> 7961 --> 1364 --> 974 --> 673 --> 9036 --> back
+Running command: back
+back: 9036
+Running command: iback
+inserted 3648
+Running command: rback
+Running command: iback
+inserted 4524
+Running command: iback
+inserted 2655
+Running command: empty
+list is not empty
+Running command: print
+front --> 2716 --> 2221 --> 5035 --> 7958 --> 4489 --> 614 --> 7052 --> 8935 --> 3009 --> 8420 --> 5293 --> 7968 --> 9218 --> 5241 --> 3181 --> 6332 --> 8111 --> 7122 --> 2426 --> 5754 --> 4631 --> 7961 --> 1364 --> 974 --> 673 --> 9036 --> 4524 --> 2655 --> back
+Running command: rfront
+Running command: iat
+inserted 5497 at position 9
+Running command: size
+List length: 28
+Running command: rfront
+Running command: print
+front --> 5035 --> 7958 --> 4489 --> 614 --> 7052 --> 8935 --> 3009 --> 8420 --> 5497 --> 5293 --> 7968 --> 9218 --> 5241 --> 3181 --> 6332 --> 8111 --> 7122 --> 2426 --> 5754 --> 4631 --> 7961 --> 1364 --> 974 --> 673 --> 9036 --> 4524 --> 2655 --> back
+Running command: print
+front --> 5035 --> 7958 --> 4489 --> 614 --> 7052 --> 8935 --> 3009 --> 8420 --> 5497 --> 5293 --> 7968 --> 9218 --> 5241 --> 3181 --> 6332 --> 8111 --> 7122 --> 2426 --> 5754 --> 4631 --> 7961 --> 1364 --> 974 --> 673 --> 9036 --> 4524 --> 2655 --> back
+Running command: front
+front: 5035
+Running command: ifront
+inserted 4140
+Running command: front
+front: 4140
+Running command: size
+List length: 28
+Running command: ifront
+inserted 6185
+Running command: rfront
+Running command: at
+warning: couldn't get position 5810
+Running command: rback
+Running command: rat
+Running command: ifront
+inserted 9310
+Running command: back
+back: 4524
+Running command: rback
+Running command: empty
+list is not empty
+Running command: rat
+Running command: iat
+inserted 7094 at position 31
+Running command: print
+front --> 9310 --> 4140 --> 5035 --> 7958 --> 4489 --> 614 --> 7052 --> 8935 --> 3009 --> 8420 --> 5497 --> 5293 --> 7968 --> 9218 --> 5241 --> 3181 --> 6332 --> 8111 --> 7122 --> 2426 --> 5754 --> 4631 --> 7961 --> 1364 --> 974 --> 673 --> 9036 --> 7094 --> back
+Running command: iback
+inserted 8086
+Running command: empty
+list is not empty
+Running command: print
+front --> 9310 --> 4140 --> 5035 --> 7958 --> 4489 --> 614 --> 7052 --> 8935 --> 3009 --> 8420 --> 5497 --> 5293 --> 7968 --> 9218 --> 5241 --> 3181 --> 6332 --> 8111 --> 7122 --> 2426 --> 5754 --> 4631 --> 7961 --> 1364 --> 974 --> 673 --> 9036 --> 7094 --> 8086 --> back
+Running command: iat
+inserted 5827 at position 0
+Running command: rback
+Running command: rback
+Running command: rfront
+Running command: at
+warning: couldn't get position 255
+Running command: at
+warning: couldn't get position 2952
+Running command: size
+List length: 27
+Running command: size
+List length: 27
+Running command: at
+warning: couldn't get position 3976
+Running command: empty
+list is not empty
+Running command: iat
+inserted 7098 at position 22
+Running command: iback
+inserted 5817
+Running command: rfront
+Running command: rfront
+Running command: empty
+list is not empty
+Running command: ifront
+inserted 5263
+Running command: at
+warning: couldn't get position 7563
+Running command: printr
+back --> 5817 --> 9036 --> 673 --> 974 --> 1364 --> 7961 --> 7098 --> 4631 --> 5754 --> 2426 --> 7122 --> 8111 --> 6332 --> 3181 --> 5241 --> 9218 --> 7968 --> 5293 --> 5497 --> 8420 --> 3009 --> 8935 --> 7052 --> 614 --> 4489 --> 7958 --> 5035 --> 5263 --> front
+Running command: size
+List length: 28
+Running command: back
+back: 5817
+Running command: printr
+back --> 5817 --> 9036 --> 673 --> 974 --> 1364 --> 7961 --> 7098 --> 4631 --> 5754 --> 2426 --> 7122 --> 8111 --> 6332 --> 3181 --> 5241 --> 9218 --> 7968 --> 5293 --> 5497 --> 8420 --> 3009 --> 8935 --> 7052 --> 614 --> 4489 --> 7958 --> 5035 --> 5263 --> front
+Running command: print
+front --> 5263 --> 5035 --> 7958 --> 4489 --> 614 --> 7052 --> 8935 --> 3009 --> 8420 --> 5497 --> 5293 --> 7968 --> 9218 --> 5241 --> 3181 --> 6332 --> 8111 --> 7122 --> 2426 --> 5754 --> 4631 --> 7098 --> 7961 --> 1364 --> 974 --> 673 --> 9036 --> 5817 --> back
+Running command: printr
+back --> 5817 --> 9036 --> 673 --> 974 --> 1364 --> 7961 --> 7098 --> 4631 --> 5754 --> 2426 --> 7122 --> 8111 --> 6332 --> 3181 --> 5241 --> 9218 --> 7968 --> 5293 --> 5497 --> 8420 --> 3009 --> 8935 --> 7052 --> 614 --> 4489 --> 7958 --> 5035 --> 5263 --> front
+Running command: rat
+Running command: ifront
+inserted 1683
+Running command: iback
+inserted 8301
+Running command: empty
+list is not empty
+Running command: rfront
+Running command: rat
+Running command: empty
+list is not empty
+Running command: iat
+inserted 1635 at position 44
+Running command: ifront
+inserted 1
+Running command: print
+front --> 1 --> 5263 --> 5035 --> 7958 --> 4489 --> 614 --> 7052 --> 8935 --> 3009 --> 8420 --> 5497 --> 5293 --> 7968 --> 9218 --> 5241 --> 3181 --> 6332 --> 8111 --> 7122 --> 2426 --> 5754 --> 4631 --> 7098 --> 7961 --> 1364 --> 974 --> 673 --> 9036 --> 5817 --> 8301 --> 1635 --> back
+Running command: rfront
+Running command: rfront
+Running command: rfront
+Running command: ifront
+inserted 3534
+Running command: front
+front: 3534
+Running command: back
+back: 1635
+Running command: iat
+inserted 4795 at position 4
+Running command: rback
+Running command: iat
+inserted 4223 at position 28
+Running command: front
+front: 3534
+Running command: front
+front: 3534
+Running command: iat
+inserted 3330 at position 15
+Running command: at
+warning: couldn't get position 1692
+Running command: print
+front --> 3534 --> 7958 --> 4489 --> 614 --> 4795 --> 7052 --> 8935 --> 3009 --> 8420 --> 5497 --> 5293 --> 7968 --> 9218 --> 5241 --> 3181 --> 3330 --> 6332 --> 8111 --> 7122 --> 2426 --> 5754 --> 4631 --> 7098 --> 7961 --> 1364 --> 974 --> 673 --> 9036 --> 5817 --> 4223 --> 8301 --> back
+Running command: iat
+inserted 1700 at position 43
+Running command: rfront
+Running command: print
+front --> 7958 --> 4489 --> 614 --> 4795 --> 7052 --> 8935 --> 3009 --> 8420 --> 5497 --> 5293 --> 7968 --> 9218 --> 5241 --> 3181 --> 3330 --> 6332 --> 8111 --> 7122 --> 2426 --> 5754 --> 4631 --> 7098 --> 7961 --> 1364 --> 974 --> 673 --> 9036 --> 5817 --> 4223 --> 8301 --> 1700 --> back
+Running command: rat
+Running command: size
+List length: 31
+Running command: print
+front --> 7958 --> 4489 --> 614 --> 4795 --> 7052 --> 8935 --> 3009 --> 8420 --> 5497 --> 5293 --> 7968 --> 9218 --> 5241 --> 3181 --> 3330 --> 6332 --> 8111 --> 7122 --> 2426 --> 5754 --> 4631 --> 7098 --> 7961 --> 1364 --> 974 --> 673 --> 9036 --> 5817 --> 4223 --> 8301 --> 1700 --> back
+Running command: rat
+Running command: iat
+inserted 6366 at position 13
+Running command: rat
+Running command: rback
+Running command: rat
+Running command: rat
+Running command: iback
+inserted 6626
+Running command: rback
+Running command: at
+warning: couldn't get position 8153
+Running command: size
+List length: 31
+Running command: front
+front: 7958
+Running command: rat
+Running command: rat
+Running command: iat
+inserted 2983 at position 28
+Running command: rback
+Running command: printr
+back --> 4223 --> 5817 --> 2983 --> 9036 --> 673 --> 974 --> 1364 --> 7961 --> 7098 --> 4631 --> 5754 --> 2426 --> 7122 --> 8111 --> 6332 --> 3330 --> 3181 --> 6366 --> 5241 --> 9218 --> 7968 --> 5293 --> 5497 --> 8420 --> 3009 --> 8935 --> 7052 --> 4795 --> 614 --> 4489 --> 7958 --> front
+Running command: size
+List length: 31
+Running command: printr
+back --> 4223 --> 5817 --> 2983 --> 9036 --> 673 --> 974 --> 1364 --> 7961 --> 7098 --> 4631 --> 5754 --> 2426 --> 7122 --> 8111 --> 6332 --> 3330 --> 3181 --> 6366 --> 5241 --> 9218 --> 7968 --> 5293 --> 5497 --> 8420 --> 3009 --> 8935 --> 7052 --> 4795 --> 614 --> 4489 --> 7958 --> front
+Running command: front
+front: 7958
+Running command: rback
+Running command: rat
+Running command: iat
+inserted 4643 at position 49
+Running command: iat
+inserted 3161 at position 15
+Running command: iat
+inserted 8056 at position 44
+Running command: iat
+inserted 9543 at position 0
+Running command: ifront
+inserted 8474
+Running command: ifront
+inserted 620
+Running command: empty
+list is not empty
+Running command: at
+warning: couldn't get position 7188
+Running command: empty
+list is not empty
+Running command: iback
+inserted 9829
+Running command: iback
+inserted 337
+Running command: print
+front --> 620 --> 8474 --> 9543 --> 7958 --> 4489 --> 614 --> 4795 --> 7052 --> 8935 --> 3009 --> 8420 --> 5497 --> 5293 --> 7968 --> 9218 --> 5241 --> 6366 --> 3181 --> 3161 --> 3330 --> 6332 --> 8111 --> 7122 --> 2426 --> 5754 --> 4631 --> 7098 --> 7961 --> 1364 --> 974 --> 673 --> 9036 --> 2983 --> 5817 --> 4643 --> 8056 --> 9829 --> 337 --> back
+Running command: rat
+Running command: at
+warning: couldn't get position 3001
+Running command: iat
+inserted 9887 at position 41
+Running command: iback
+inserted 4669
+Running command: rfront
+Running command: ifront
+inserted 9221
+Running command: back
+back: 4669
+Running command: iat
+inserted 9302 at position 44
+Running command: rfront
+Running command: print
+front --> 8474 --> 9543 --> 7958 --> 4489 --> 614 --> 4795 --> 7052 --> 8935 --> 3009 --> 8420 --> 5497 --> 5293 --> 7968 --> 9218 --> 5241 --> 6366 --> 3181 --> 3161 --> 3330 --> 6332 --> 8111 --> 7122 --> 2426 --> 5754 --> 4631 --> 7098 --> 7961 --> 1364 --> 974 --> 673 --> 9036 --> 2983 --> 5817 --> 4643 --> 8056 --> 9829 --> 337 --> 9887 --> 4669 --> 9302 --> back
+Running command: ifront
+inserted 5813
+Running command: print
+front --> 5813 --> 8474 --> 9543 --> 7958 --> 4489 --> 614 --> 4795 --> 7052 --> 8935 --> 3009 --> 8420 --> 5497 --> 5293 --> 7968 --> 9218 --> 5241 --> 6366 --> 3181 --> 3161 --> 3330 --> 6332 --> 8111 --> 7122 --> 2426 --> 5754 --> 4631 --> 7098 --> 7961 --> 1364 --> 974 --> 673 --> 9036 --> 2983 --> 5817 --> 4643 --> 8056 --> 9829 --> 337 --> 9887 --> 4669 --> 9302 --> back
+Running command: back
+back: 9302
+Running command: size
+List length: 41
+Running command: front
+front: 5813
+Running command: at
+warning: couldn't get position 7848
+Running command: iat
+inserted 9696 at position 42
+Running command: iat
+inserted 376 at position 47
+Running command: rat
+Running command: at
+warning: couldn't get position 280
+Running command: printr
+back --> 376 --> 9696 --> 9302 --> 4669 --> 9887 --> 337 --> 9829 --> 8056 --> 4643 --> 5817 --> 2983 --> 9036 --> 673 --> 974 --> 1364 --> 7961 --> 7098 --> 4631 --> 5754 --> 2426 --> 7122 --> 8111 --> 6332 --> 3330 --> 3161 --> 3181 --> 6366 --> 5241 --> 9218 --> 7968 --> 5293 --> 5497 --> 8420 --> 3009 --> 8935 --> 7052 --> 4795 --> 614 --> 4489 --> 7958 --> 9543 --> 8474 --> 5813 --> front
+Running command: size
+List length: 43
+Running command: iback
+inserted 588
+Running command: at
+list[42]: 376
+Running command: printr
+back --> 588 --> 376 --> 9696 --> 9302 --> 4669 --> 9887 --> 337 --> 9829 --> 8056 --> 4643 --> 5817 --> 2983 --> 9036 --> 673 --> 974 --> 1364 --> 7961 --> 7098 --> 4631 --> 5754 --> 2426 --> 7122 --> 8111 --> 6332 --> 3330 --> 3161 --> 3181 --> 6366 --> 5241 --> 9218 --> 7968 --> 5293 --> 5497 --> 8420 --> 3009 --> 8935 --> 7052 --> 4795 --> 614 --> 4489 --> 7958 --> 9543 --> 8474 --> 5813 --> front
+Running command: rback
+Running command: iat
+inserted 9823 at position 12
+Running command: back
+back: 376
+Running command: at
+warning: couldn't get position 2108
+Running command: back
+back: 376
+Running command: rback
+Running command: iback
+inserted 1463
+Running command: iat
+inserted 9451 at position 17
+Running command: rback
+Running command: rfront
+Running command: rback
+Running command: front
+front: 8474
+Running command: at
+warning: couldn't get position 4651
+Running command: ifront
+inserted 8479
+Running command: iat
+inserted 6405 at position 41
+Running command: at
+warning: couldn't get position 9474
+Running command: rat
+Running command: front
+front: 8479
+Running command: print
+front --> 8479 --> 8474 --> 9543 --> 7958 --> 4489 --> 614 --> 4795 --> 7052 --> 8935 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 3161 --> 3330 --> 6332 --> 8111 --> 7122 --> 2426 --> 5754 --> 4631 --> 7098 --> 7961 --> 1364 --> 974 --> 673 --> 9036 --> 2983 --> 5817 --> 4643 --> 8056 --> 9829 --> 337 --> 9887 --> 6405 --> 4669 --> 9302 --> back
+Running command: empty
+list is not empty
+Running command: rfront
+Running command: rat
+Running command: size
+List length: 43
+Running command: back
+back: 9302
+Running command: at
+warning: couldn't get position 2907
+Running command: size
+List length: 43
+Running command: printr
+back --> 9302 --> 4669 --> 6405 --> 9887 --> 337 --> 9829 --> 8056 --> 4643 --> 5817 --> 2983 --> 9036 --> 673 --> 974 --> 1364 --> 7961 --> 7098 --> 4631 --> 5754 --> 2426 --> 7122 --> 8111 --> 6332 --> 3330 --> 3161 --> 3181 --> 6366 --> 9451 --> 5241 --> 9218 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 3009 --> 8935 --> 7052 --> 4795 --> 614 --> 4489 --> 7958 --> 9543 --> 8474 --> front
+Running command: rat
+Running command: printr
+back --> 9302 --> 4669 --> 6405 --> 9887 --> 337 --> 9829 --> 8056 --> 4643 --> 5817 --> 2983 --> 9036 --> 673 --> 974 --> 1364 --> 7961 --> 7098 --> 4631 --> 5754 --> 2426 --> 7122 --> 8111 --> 6332 --> 3330 --> 3161 --> 3181 --> 6366 --> 9451 --> 5241 --> 9218 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 3009 --> 8935 --> 7052 --> 4795 --> 614 --> 4489 --> 7958 --> 9543 --> 8474 --> front
+Running command: size
+List length: 43
+Running command: at
+warning: couldn't get position 3572
+Running command: rback
+Running command: iat
+inserted 4787 at position 36
+Running command: rat
+Running command: ifront
+inserted 4697
+Running command: iat
+inserted 95 at position 36
+Running command: rat
+Running command: empty
+list is not empty
+Running command: size
+List length: 45
+Running command: empty
+list is not empty
+Running command: front
+front: 4697
+Running command: rat
+Running command: size
+List length: 45
+Running command: at
+warning: couldn't get position 9933
+Running command: ifront
+inserted 9560
+Running command: rback
+Running command: iback
+inserted 222
+Running command: iat
+inserted 9388 at position 31
+Running command: ifront
+inserted 1477
+Running command: print
+front --> 1477 --> 9560 --> 4697 --> 8474 --> 9543 --> 7958 --> 4489 --> 614 --> 4795 --> 7052 --> 8935 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 3161 --> 3330 --> 6332 --> 8111 --> 7122 --> 2426 --> 5754 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 673 --> 9036 --> 2983 --> 5817 --> 95 --> 4643 --> 4787 --> 8056 --> 9829 --> 337 --> 9887 --> 6405 --> 222 --> back
+Running command: iback
+inserted 3619
+Running command: empty
+list is not empty
+Running command: rback
+Running command: rfront
+Running command: rat
+Running command: empty
+list is not empty
+Running command: ifront
+inserted 3616
+Running command: rback
+Running command: rat
+Running command: size
+List length: 47
+Running command: print
+front --> 3616 --> 9560 --> 4697 --> 8474 --> 9543 --> 7958 --> 4489 --> 614 --> 4795 --> 7052 --> 8935 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 3161 --> 3330 --> 6332 --> 8111 --> 7122 --> 2426 --> 5754 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 673 --> 9036 --> 2983 --> 5817 --> 95 --> 4643 --> 4787 --> 8056 --> 9829 --> 337 --> 9887 --> 6405 --> back
+Running command: at
+warning: couldn't get position 7033
+Running command: print
+front --> 3616 --> 9560 --> 4697 --> 8474 --> 9543 --> 7958 --> 4489 --> 614 --> 4795 --> 7052 --> 8935 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 3161 --> 3330 --> 6332 --> 8111 --> 7122 --> 2426 --> 5754 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 673 --> 9036 --> 2983 --> 5817 --> 95 --> 4643 --> 4787 --> 8056 --> 9829 --> 337 --> 9887 --> 6405 --> back
+Running command: rback
+Running command: rat
+Running command: back
+back: 9887
+Running command: at
+warning: couldn't get position 3917
+Running command: iat
+inserted 9453 at position 10
+Running command: print
+front --> 3616 --> 9560 --> 4697 --> 8474 --> 9543 --> 7958 --> 4489 --> 614 --> 4795 --> 7052 --> 9453 --> 8935 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 3161 --> 3330 --> 6332 --> 8111 --> 7122 --> 2426 --> 5754 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 673 --> 9036 --> 2983 --> 5817 --> 95 --> 4643 --> 4787 --> 8056 --> 9829 --> 337 --> 9887 --> back
+Running command: print
+front --> 3616 --> 9560 --> 4697 --> 8474 --> 9543 --> 7958 --> 4489 --> 614 --> 4795 --> 7052 --> 9453 --> 8935 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 3161 --> 3330 --> 6332 --> 8111 --> 7122 --> 2426 --> 5754 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 673 --> 9036 --> 2983 --> 5817 --> 95 --> 4643 --> 4787 --> 8056 --> 9829 --> 337 --> 9887 --> back
+Running command: back
+back: 9887
+Running command: size
+List length: 47
+Running command: size
+List length: 47
+Running command: rback
+Running command: rfront
+Running command: size
+List length: 45
+Running command: rback
+Running command: print
+front --> 9560 --> 4697 --> 8474 --> 9543 --> 7958 --> 4489 --> 614 --> 4795 --> 7052 --> 9453 --> 8935 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 3161 --> 3330 --> 6332 --> 8111 --> 7122 --> 2426 --> 5754 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 673 --> 9036 --> 2983 --> 5817 --> 95 --> 4643 --> 4787 --> 8056 --> 9829 --> back
+Running command: iat
+inserted 4027 at position 35
+Running command: back
+back: 9829
+Running command: iat
+inserted 16 at position 22
+Running command: at
+warning: couldn't get position 8581
+Running command: at
+warning: couldn't get position 3768
+Running command: iat
+inserted 4694 at position 6
+Running command: ifront
+inserted 4576
+Running command: rfront
+Running command: rfront
+Running command: at
+warning: couldn't get position 1366
+Running command: iback
+inserted 5369
+Running command: iback
+inserted 1382
+Running command: rat
+Running command: rfront
+Running command: back
+back: 1382
+Running command: size
+List length: 47
+Running command: back
+back: 1382
+Running command: rfront
+Running command: at
+warning: couldn't get position 5432
+Running command: empty
+list is not empty
+Running command: iback
+inserted 71
+Running command: iback
+inserted 497
+Running command: empty
+list is not empty
+Running command: iback
+inserted 9337
+Running command: at
+warning: couldn't get position 9011
+Running command: size
+List length: 49
+Running command: ifront
+inserted 3401
+Running command: printr
+back --> 9337 --> 497 --> 71 --> 1382 --> 5369 --> 9829 --> 8056 --> 4787 --> 4643 --> 95 --> 5817 --> 2983 --> 9036 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 5754 --> 2426 --> 7122 --> 8111 --> 6332 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 5241 --> 9218 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 3009 --> 8935 --> 9453 --> 7052 --> 4795 --> 614 --> 4694 --> 4489 --> 7958 --> 9543 --> 3401 --> front
+Running command: rback
+Running command: print
+front --> 3401 --> 9543 --> 7958 --> 4489 --> 4694 --> 614 --> 4795 --> 7052 --> 9453 --> 8935 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 6332 --> 8111 --> 7122 --> 2426 --> 5754 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 9036 --> 2983 --> 5817 --> 95 --> 4643 --> 4787 --> 8056 --> 9829 --> 5369 --> 1382 --> 71 --> 497 --> back
+Running command: printr
+back --> 497 --> 71 --> 1382 --> 5369 --> 9829 --> 8056 --> 4787 --> 4643 --> 95 --> 5817 --> 2983 --> 9036 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 5754 --> 2426 --> 7122 --> 8111 --> 6332 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 5241 --> 9218 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 3009 --> 8935 --> 9453 --> 7052 --> 4795 --> 614 --> 4694 --> 4489 --> 7958 --> 9543 --> 3401 --> front
+Running command: iat
+inserted 1104 at position 42
+Running command: rfront
+Running command: back
+back: 497
+Running command: size
+List length: 49
+Running command: print
+front --> 9543 --> 7958 --> 4489 --> 4694 --> 614 --> 4795 --> 7052 --> 9453 --> 8935 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 6332 --> 8111 --> 7122 --> 2426 --> 5754 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 9036 --> 2983 --> 5817 --> 95 --> 4643 --> 1104 --> 4787 --> 8056 --> 9829 --> 5369 --> 1382 --> 71 --> 497 --> back
+Running command: rat
+Running command: front
+front: 9543
+Running command: iback
+inserted 8818
+Running command: printr
+back --> 8818 --> 497 --> 71 --> 1382 --> 5369 --> 9829 --> 8056 --> 4787 --> 1104 --> 4643 --> 95 --> 5817 --> 2983 --> 9036 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 5754 --> 2426 --> 7122 --> 8111 --> 6332 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 5241 --> 9218 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 3009 --> 8935 --> 9453 --> 7052 --> 4795 --> 614 --> 4694 --> 4489 --> 7958 --> 9543 --> front
+Running command: front
+front: 9543
+Running command: rback
+Running command: printr
+back --> 497 --> 71 --> 1382 --> 5369 --> 9829 --> 8056 --> 4787 --> 1104 --> 4643 --> 95 --> 5817 --> 2983 --> 9036 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 5754 --> 2426 --> 7122 --> 8111 --> 6332 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 5241 --> 9218 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 3009 --> 8935 --> 9453 --> 7052 --> 4795 --> 614 --> 4694 --> 4489 --> 7958 --> 9543 --> front
+Running command: ifront
+inserted 3111
+Running command: front
+front: 3111
+Running command: iback
+inserted 7227
+Running command: print
+front --> 3111 --> 9543 --> 7958 --> 4489 --> 4694 --> 614 --> 4795 --> 7052 --> 9453 --> 8935 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 6332 --> 8111 --> 7122 --> 2426 --> 5754 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 9036 --> 2983 --> 5817 --> 95 --> 4643 --> 1104 --> 4787 --> 8056 --> 9829 --> 5369 --> 1382 --> 71 --> 497 --> 7227 --> back
+Running command: ifront
+inserted 2793
+Running command: at
+warning: couldn't get position 881
+Running command: printr
+back --> 7227 --> 497 --> 71 --> 1382 --> 5369 --> 9829 --> 8056 --> 4787 --> 1104 --> 4643 --> 95 --> 5817 --> 2983 --> 9036 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 5754 --> 2426 --> 7122 --> 8111 --> 6332 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 5241 --> 9218 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 3009 --> 8935 --> 9453 --> 7052 --> 4795 --> 614 --> 4694 --> 4489 --> 7958 --> 9543 --> 3111 --> 2793 --> front
+Running command: ifront
+inserted 5678
+Running command: size
+List length: 53
+Running command: rback
+Running command: empty
+list is not empty
+Running command: front
+front: 5678
+Running command: size
+List length: 52
+Running command: ifront
+inserted 6939
+Running command: ifront
+inserted 14
+Running command: ifront
+inserted 7633
+Running command: rfront
+Running command: back
+back: 497
+Running command: size
+List length: 54
+Running command: rat
+Running command: ifront
+inserted 1073
+Running command: rback
+Running command: empty
+list is not empty
+Running command: print
+front --> 1073 --> 14 --> 6939 --> 5678 --> 2793 --> 3111 --> 9543 --> 7958 --> 4489 --> 4694 --> 614 --> 4795 --> 7052 --> 9453 --> 8935 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 6332 --> 8111 --> 7122 --> 2426 --> 5754 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 9036 --> 2983 --> 5817 --> 95 --> 4643 --> 1104 --> 4787 --> 8056 --> 9829 --> 5369 --> 1382 --> 71 --> back
+Running command: rback
+Running command: print
+front --> 1073 --> 14 --> 6939 --> 5678 --> 2793 --> 3111 --> 9543 --> 7958 --> 4489 --> 4694 --> 614 --> 4795 --> 7052 --> 9453 --> 8935 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 6332 --> 8111 --> 7122 --> 2426 --> 5754 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 9036 --> 2983 --> 5817 --> 95 --> 4643 --> 1104 --> 4787 --> 8056 --> 9829 --> 5369 --> 1382 --> back
+Running command: iback
+inserted 4175
+Running command: iback
+inserted 1754
+Running command: print
+front --> 1073 --> 14 --> 6939 --> 5678 --> 2793 --> 3111 --> 9543 --> 7958 --> 4489 --> 4694 --> 614 --> 4795 --> 7052 --> 9453 --> 8935 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 6332 --> 8111 --> 7122 --> 2426 --> 5754 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 9036 --> 2983 --> 5817 --> 95 --> 4643 --> 1104 --> 4787 --> 8056 --> 9829 --> 5369 --> 1382 --> 4175 --> 1754 --> back
+Running command: front
+front: 1073
+Running command: at
+warning: couldn't get position 8169
+Running command: rfront
+Running command: iback
+inserted 654
+Running command: rback
+Running command: at
+warning: couldn't get position 2268
+Running command: rback
+Running command: print
+front --> 14 --> 6939 --> 5678 --> 2793 --> 3111 --> 9543 --> 7958 --> 4489 --> 4694 --> 614 --> 4795 --> 7052 --> 9453 --> 8935 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 6332 --> 8111 --> 7122 --> 2426 --> 5754 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 9036 --> 2983 --> 5817 --> 95 --> 4643 --> 1104 --> 4787 --> 8056 --> 9829 --> 5369 --> 1382 --> 4175 --> back
+Running command: rat
+Running command: empty
+list is not empty
+Running command: rfront
+Running command: front
+front: 6939
+Running command: back
+back: 4175
+Running command: rfront
+Running command: print
+front --> 5678 --> 2793 --> 3111 --> 9543 --> 7958 --> 4489 --> 4694 --> 614 --> 4795 --> 7052 --> 9453 --> 8935 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 6332 --> 8111 --> 7122 --> 2426 --> 5754 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 9036 --> 2983 --> 5817 --> 95 --> 4643 --> 1104 --> 4787 --> 8056 --> 9829 --> 5369 --> 1382 --> 4175 --> back
+Running command: iback
+inserted 3136
+Running command: rat
+Running command: front
+front: 5678
+Running command: printr
+back --> 3136 --> 4175 --> 1382 --> 5369 --> 9829 --> 8056 --> 4787 --> 1104 --> 4643 --> 95 --> 5817 --> 2983 --> 9036 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 5754 --> 2426 --> 7122 --> 8111 --> 6332 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 5241 --> 9218 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 3009 --> 8935 --> 9453 --> 7052 --> 4795 --> 614 --> 4694 --> 4489 --> 7958 --> 9543 --> 3111 --> 2793 --> 5678 --> front
+Running command: empty
+list is not empty
+Running command: empty
+list is not empty
+Running command: empty
+list is not empty
+Running command: iat
+inserted 9573 at position 31
+Running command: printr
+back --> 3136 --> 4175 --> 1382 --> 5369 --> 9829 --> 8056 --> 4787 --> 1104 --> 4643 --> 95 --> 5817 --> 2983 --> 9036 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8111 --> 6332 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 5241 --> 9218 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 3009 --> 8935 --> 9453 --> 7052 --> 4795 --> 614 --> 4694 --> 4489 --> 7958 --> 9543 --> 3111 --> 2793 --> 5678 --> front
+Running command: size
+List length: 53
+Running command: rback
+Running command: iat
+inserted 6463 at position 12
+Running command: ifront
+inserted 5221
+Running command: rat
+Running command: empty
+list is not empty
+Running command: rfront
+Running command: rat
+Running command: size
+List length: 53
+Running command: iback
+inserted 8454
+Running command: rat
+Running command: size
+List length: 54
+Running command: at
+warning: couldn't get position 4093
+Running command: size
+List length: 54
+Running command: iat
+inserted 5889 at position 27
+Running command: ifront
+inserted 110
+Running command: printr
+back --> 8454 --> 4175 --> 1382 --> 5369 --> 9829 --> 8056 --> 4787 --> 1104 --> 4643 --> 95 --> 5817 --> 2983 --> 9036 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8111 --> 6332 --> 5889 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 5241 --> 9218 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 4795 --> 614 --> 4694 --> 4489 --> 7958 --> 9543 --> 3111 --> 2793 --> 5678 --> 110 --> front
+Running command: rback
+Running command: rat
+Running command: rback
+Running command: rback
+Running command: ifront
+inserted 2708
+Running command: ifront
+inserted 9202
+Running command: empty
+list is not empty
+Running command: printr
+back --> 5369 --> 9829 --> 8056 --> 4787 --> 1104 --> 4643 --> 95 --> 5817 --> 2983 --> 9036 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8111 --> 6332 --> 5889 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 5241 --> 9218 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 4795 --> 614 --> 4694 --> 4489 --> 7958 --> 9543 --> 3111 --> 2793 --> 5678 --> 110 --> 2708 --> 9202 --> front
+Running command: rback
+Running command: empty
+list is not empty
+Running command: ifront
+inserted 647
+Running command: size
+List length: 55
+Running command: empty
+list is not empty
+Running command: iback
+inserted 9063
+Running command: print
+front --> 647 --> 9202 --> 2708 --> 110 --> 5678 --> 2793 --> 3111 --> 9543 --> 7958 --> 4489 --> 4694 --> 614 --> 4795 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 5889 --> 6332 --> 8111 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 9036 --> 2983 --> 5817 --> 95 --> 4643 --> 1104 --> 4787 --> 8056 --> 9829 --> 9063 --> back
+Running command: rfront
+Running command: print
+front --> 9202 --> 2708 --> 110 --> 5678 --> 2793 --> 3111 --> 9543 --> 7958 --> 4489 --> 4694 --> 614 --> 4795 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 5889 --> 6332 --> 8111 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 9036 --> 2983 --> 5817 --> 95 --> 4643 --> 1104 --> 4787 --> 8056 --> 9829 --> 9063 --> back
+Running command: ifront
+inserted 802
+Running command: print
+front --> 802 --> 9202 --> 2708 --> 110 --> 5678 --> 2793 --> 3111 --> 9543 --> 7958 --> 4489 --> 4694 --> 614 --> 4795 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 5889 --> 6332 --> 8111 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 9036 --> 2983 --> 5817 --> 95 --> 4643 --> 1104 --> 4787 --> 8056 --> 9829 --> 9063 --> back
+Running command: size
+List length: 56
+Running command: size
+List length: 56
+Running command: rback
+Running command: front
+front: 802
+Running command: iback
+inserted 5400
+Running command: back
+back: 5400
+Running command: empty
+list is not empty
+Running command: iat
+inserted 5616 at position 46
+Running command: size
+List length: 57
+Running command: empty
+list is not empty
+Running command: rback
+Running command: ifront
+inserted 6688
+Running command: size
+List length: 57
+Running command: at
+warning: couldn't get position 6894
+Running command: rfront
+Running command: at
+warning: couldn't get position 2417
+Running command: ifront
+inserted 8663
+Running command: iback
+inserted 7796
+Running command: empty
+list is not empty
+Running command: at
+warning: couldn't get position 1874
+Running command: size
+List length: 58
+Running command: iback
+inserted 5269
+Running command: rfront
+Running command: iback
+inserted 5346
+Running command: rfront
+Running command: rat
+Running command: front
+front: 9202
+Running command: size
+List length: 58
+Running command: at
+warning: couldn't get position 8640
+Running command: printr
+back --> 5346 --> 5269 --> 7796 --> 9829 --> 8056 --> 4787 --> 1104 --> 4643 --> 95 --> 5817 --> 2983 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8111 --> 6332 --> 5889 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 5241 --> 9218 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 4795 --> 614 --> 4694 --> 4489 --> 7958 --> 9543 --> 3111 --> 2793 --> 5678 --> 110 --> 2708 --> 9202 --> front
+Running command: at
+warning: couldn't get position 6497
+Running command: ifront
+inserted 9252
+Running command: print
+front --> 9252 --> 9202 --> 2708 --> 110 --> 5678 --> 2793 --> 3111 --> 9543 --> 7958 --> 4489 --> 4694 --> 614 --> 4795 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 5889 --> 6332 --> 8111 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 2983 --> 5817 --> 95 --> 4643 --> 1104 --> 4787 --> 8056 --> 9829 --> 7796 --> 5269 --> 5346 --> back
+Running command: at
+warning: couldn't get position 8234
+Running command: iat
+inserted 8926 at position 33
+Running command: at
+warning: couldn't get position 8280
+Running command: empty
+list is not empty
+Running command: rback
+Running command: iat
+inserted 5535 at position 6
+Running command: printr
+back --> 5269 --> 7796 --> 9829 --> 8056 --> 4787 --> 1104 --> 4643 --> 95 --> 5817 --> 2983 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8111 --> 8926 --> 6332 --> 5889 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 5241 --> 9218 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 4795 --> 614 --> 4694 --> 4489 --> 7958 --> 9543 --> 3111 --> 5535 --> 2793 --> 5678 --> 110 --> 2708 --> 9202 --> 9252 --> front
+Running command: print
+front --> 9252 --> 9202 --> 2708 --> 110 --> 5678 --> 2793 --> 5535 --> 3111 --> 9543 --> 7958 --> 4489 --> 4694 --> 614 --> 4795 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 5889 --> 6332 --> 8926 --> 8111 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 2983 --> 5817 --> 95 --> 4643 --> 1104 --> 4787 --> 8056 --> 9829 --> 7796 --> 5269 --> back
+Running command: rat
+Running command: back
+back: 5269
+Running command: iback
+inserted 3825
+Running command: size
+List length: 61
+Running command: size
+List length: 61
+Running command: rfront
+Running command: rat
+Running command: empty
+list is not empty
+Running command: empty
+list is not empty
+Running command: ifront
+inserted 7226
+Running command: iback
+inserted 4249
+Running command: print
+front --> 7226 --> 9202 --> 2708 --> 110 --> 5678 --> 2793 --> 5535 --> 3111 --> 9543 --> 7958 --> 4489 --> 4694 --> 614 --> 4795 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 5889 --> 6332 --> 8926 --> 8111 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 2983 --> 5817 --> 95 --> 4643 --> 1104 --> 4787 --> 8056 --> 9829 --> 7796 --> 5269 --> 3825 --> 4249 --> back
+Running command: rback
+Running command: iback
+inserted 8940
+Running command: front
+front: 7226
+Running command: print
+front --> 7226 --> 9202 --> 2708 --> 110 --> 5678 --> 2793 --> 5535 --> 3111 --> 9543 --> 7958 --> 4489 --> 4694 --> 614 --> 4795 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 5889 --> 6332 --> 8926 --> 8111 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 2983 --> 5817 --> 95 --> 4643 --> 1104 --> 4787 --> 8056 --> 9829 --> 7796 --> 5269 --> 3825 --> 8940 --> back
+Running command: back
+back: 8940
+Running command: ifront
+inserted 6182
+Running command: empty
+list is not empty
+Running command: empty
+list is not empty
+Running command: size
+List length: 63
+Running command: rat
+Running command: size
+List length: 63
+Running command: back
+back: 8940
+Running command: at
+warning: couldn't get position 789
+Running command: print
+front --> 6182 --> 7226 --> 9202 --> 2708 --> 110 --> 5678 --> 2793 --> 5535 --> 3111 --> 9543 --> 7958 --> 4489 --> 4694 --> 614 --> 4795 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 5889 --> 6332 --> 8926 --> 8111 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 2983 --> 5817 --> 95 --> 4643 --> 1104 --> 4787 --> 8056 --> 9829 --> 7796 --> 5269 --> 3825 --> 8940 --> back
+Running command: iback
+inserted 186
+Running command: ifront
+inserted 4368
+Running command: at
+warning: couldn't get position 4225
+Running command: iback
+inserted 2897
+Running command: iat
+inserted 5085 at position 16
+Running command: ifront
+inserted 7971
+Running command: iat
+inserted 4142 at position 15
+Running command: back
+back: 2897
+Running command: iback
+inserted 4240
+Running command: empty
+list is not empty
+Running command: rback
+Running command: printr
+back --> 2897 --> 186 --> 8940 --> 3825 --> 5269 --> 7796 --> 9829 --> 8056 --> 4787 --> 1104 --> 4643 --> 95 --> 5817 --> 2983 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8111 --> 8926 --> 6332 --> 5889 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 5241 --> 9218 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 5085 --> 4795 --> 614 --> 4142 --> 4694 --> 4489 --> 7958 --> 9543 --> 3111 --> 5535 --> 2793 --> 5678 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 4368 --> 7971 --> front
+Running command: rfront
+Running command: empty
+list is not empty
+Running command: ifront
+inserted 3241
+Running command: iat
+inserted 5480 at position 10
+Running command: print
+front --> 3241 --> 4368 --> 6182 --> 7226 --> 9202 --> 2708 --> 110 --> 5678 --> 2793 --> 5535 --> 5480 --> 3111 --> 9543 --> 7958 --> 4489 --> 4694 --> 4142 --> 614 --> 4795 --> 5085 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 5889 --> 6332 --> 8926 --> 8111 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 2983 --> 5817 --> 95 --> 4643 --> 1104 --> 4787 --> 8056 --> 9829 --> 7796 --> 5269 --> 3825 --> 8940 --> 186 --> 2897 --> back
+Running command: rat
+Running command: rat
+Running command: size
+List length: 70
+Running command: size
+List length: 70
+Running command: empty
+list is not empty
+Running command: at
+warning: couldn't get position 7397
+Running command: front
+front: 3241
+Running command: printr
+back --> 2897 --> 186 --> 8940 --> 3825 --> 5269 --> 7796 --> 9829 --> 8056 --> 4787 --> 1104 --> 4643 --> 95 --> 5817 --> 2983 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8111 --> 8926 --> 6332 --> 5889 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 5241 --> 9218 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 5085 --> 4795 --> 614 --> 4142 --> 4694 --> 4489 --> 7958 --> 9543 --> 3111 --> 5480 --> 5535 --> 2793 --> 5678 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 4368 --> 3241 --> front
+Running command: back
+back: 2897
+Running command: ifront
+inserted 861
+Running command: size
+List length: 71
+Running command: size
+List length: 71
+Running command: iat
+inserted 8381 at position 43
+Running command: ifront
+inserted 9697
+Running command: rat
+Running command: back
+back: 2897
+Running command: print
+front --> 9697 --> 861 --> 3241 --> 4368 --> 6182 --> 7226 --> 9202 --> 2708 --> 110 --> 5678 --> 2793 --> 5535 --> 5480 --> 3111 --> 9543 --> 7958 --> 4489 --> 4694 --> 4142 --> 614 --> 4795 --> 5085 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 5889 --> 6332 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 2983 --> 5817 --> 95 --> 4643 --> 1104 --> 4787 --> 8056 --> 9829 --> 7796 --> 5269 --> 3825 --> 8940 --> 186 --> 2897 --> back
+Running command: back
+back: 2897
+Running command: back
+back: 2897
+Running command: empty
+list is not empty
+Running command: at
+warning: couldn't get position 3309
+Running command: size
+List length: 73
+Running command: rback
+Running command: rat
+Running command: size
+List length: 72
+Running command: print
+front --> 9697 --> 861 --> 3241 --> 4368 --> 6182 --> 7226 --> 9202 --> 2708 --> 110 --> 5678 --> 2793 --> 5535 --> 5480 --> 3111 --> 9543 --> 7958 --> 4489 --> 4694 --> 4142 --> 614 --> 4795 --> 5085 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 5889 --> 6332 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 2983 --> 5817 --> 95 --> 4643 --> 1104 --> 4787 --> 8056 --> 9829 --> 7796 --> 5269 --> 3825 --> 8940 --> 186 --> back
+Running command: empty
+list is not empty
+Running command: rfront
+Running command: rat
+Running command: front
+front: 861
+Running command: ifront
+inserted 3530
+Running command: empty
+list is not empty
+Running command: front
+front: 3530
+Running command: front
+front: 3530
+Running command: rat
+Running command: ifront
+inserted 5144
+Running command: back
+back: 186
+Running command: rback
+Running command: rback
+Running command: rfront
+Running command: printr
+back --> 3825 --> 5269 --> 7796 --> 9829 --> 8056 --> 4787 --> 1104 --> 4643 --> 95 --> 5817 --> 2983 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 6332 --> 5889 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 5241 --> 9218 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 5085 --> 4795 --> 614 --> 4142 --> 4694 --> 4489 --> 7958 --> 9543 --> 3111 --> 5480 --> 5535 --> 2793 --> 5678 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 4368 --> 3241 --> 861 --> 3530 --> front
+Running command: printr
+back --> 3825 --> 5269 --> 7796 --> 9829 --> 8056 --> 4787 --> 1104 --> 4643 --> 95 --> 5817 --> 2983 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 6332 --> 5889 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 5241 --> 9218 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 5085 --> 4795 --> 614 --> 4142 --> 4694 --> 4489 --> 7958 --> 9543 --> 3111 --> 5480 --> 5535 --> 2793 --> 5678 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 4368 --> 3241 --> 861 --> 3530 --> front
+Running command: print
+front --> 3530 --> 861 --> 3241 --> 4368 --> 6182 --> 7226 --> 9202 --> 2708 --> 110 --> 5678 --> 2793 --> 5535 --> 5480 --> 3111 --> 9543 --> 7958 --> 4489 --> 4694 --> 4142 --> 614 --> 4795 --> 5085 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 5889 --> 6332 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 2983 --> 5817 --> 95 --> 4643 --> 1104 --> 4787 --> 8056 --> 9829 --> 7796 --> 5269 --> 3825 --> back
+Running command: rat
+Running command: print
+front --> 3530 --> 861 --> 3241 --> 4368 --> 6182 --> 7226 --> 9202 --> 2708 --> 110 --> 5678 --> 2793 --> 5535 --> 5480 --> 3111 --> 9543 --> 7958 --> 4489 --> 4694 --> 4142 --> 614 --> 4795 --> 5085 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 5889 --> 6332 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 2983 --> 5817 --> 95 --> 4643 --> 1104 --> 4787 --> 8056 --> 9829 --> 7796 --> 5269 --> 3825 --> back
+Running command: size
+List length: 70
+Running command: at
+warning: couldn't get position 5333
+Running command: size
+List length: 70
+Running command: rat
+Running command: size
+List length: 70
+Running command: back
+back: 3825
+Running command: print
+front --> 3530 --> 861 --> 3241 --> 4368 --> 6182 --> 7226 --> 9202 --> 2708 --> 110 --> 5678 --> 2793 --> 5535 --> 5480 --> 3111 --> 9543 --> 7958 --> 4489 --> 4694 --> 4142 --> 614 --> 4795 --> 5085 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 5889 --> 6332 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 2983 --> 5817 --> 95 --> 4643 --> 1104 --> 4787 --> 8056 --> 9829 --> 7796 --> 5269 --> 3825 --> back
+Running command: ifront
+inserted 2425
+Running command: rback
+Running command: ifront
+inserted 8642
+Running command: rback
+Running command: rback
+Running command: back
+back: 9829
+Running command: rat
+Running command: rback
+Running command: rfront
+Running command: iat
+inserted 2946 at position 13
+Running command: empty
+list is not empty
+Running command: back
+back: 8056
+Running command: printr
+back --> 8056 --> 4787 --> 1104 --> 4643 --> 95 --> 5817 --> 2983 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 6332 --> 5889 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 5241 --> 9218 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 5085 --> 4795 --> 614 --> 4142 --> 4694 --> 4489 --> 7958 --> 9543 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 4368 --> 3241 --> 861 --> 3530 --> 2425 --> front
+Running command: iat
+inserted 9995 at position 42
+Running command: rback
+Running command: printr
+back --> 4787 --> 1104 --> 4643 --> 95 --> 5817 --> 2983 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 5241 --> 9218 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 5085 --> 4795 --> 614 --> 4142 --> 4694 --> 4489 --> 7958 --> 9543 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 4368 --> 3241 --> 861 --> 3530 --> 2425 --> front
+Running command: at
+warning: couldn't get position 4971
+Running command: iat
+inserted 2386 at position 16
+Running command: ifront
+inserted 4515
+Running command: rfront
+Running command: printr
+back --> 4787 --> 1104 --> 4643 --> 95 --> 5817 --> 2983 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 5241 --> 9218 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 5085 --> 4795 --> 614 --> 4142 --> 4694 --> 4489 --> 7958 --> 9543 --> 2386 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 4368 --> 3241 --> 861 --> 3530 --> 2425 --> front
+Running command: rback
+Running command: ifront
+inserted 881
+Running command: iat
+inserted 635 at position 47
+Running command: printr
+back --> 1104 --> 4643 --> 95 --> 5817 --> 2983 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 5241 --> 9218 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 5085 --> 4795 --> 614 --> 4142 --> 4694 --> 4489 --> 7958 --> 9543 --> 2386 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 4368 --> 3241 --> 861 --> 3530 --> 2425 --> 881 --> front
+Running command: rfront
+Running command: printr
+back --> 1104 --> 4643 --> 95 --> 5817 --> 2983 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 5241 --> 9218 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 5085 --> 4795 --> 614 --> 4142 --> 4694 --> 4489 --> 7958 --> 9543 --> 2386 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 4368 --> 3241 --> 861 --> 3530 --> 2425 --> front
+Running command: ifront
+inserted 1675
+Running command: front
+front: 1675
+Running command: back
+back: 1104
+Running command: front
+front: 1675
+Running command: size
+List length: 70
+Running command: at
+warning: couldn't get position 593
+Running command: back
+back: 1104
+Running command: rback
+Running command: printr
+back --> 4643 --> 95 --> 5817 --> 2983 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 5241 --> 9218 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 5085 --> 4795 --> 614 --> 4142 --> 4694 --> 4489 --> 7958 --> 9543 --> 2386 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 4368 --> 3241 --> 861 --> 3530 --> 2425 --> 1675 --> front
+Running command: rback
+Running command: size
+List length: 68
+Running command: iback
+inserted 4405
+Running command: print
+front --> 1675 --> 2425 --> 3530 --> 861 --> 3241 --> 4368 --> 6182 --> 7226 --> 9202 --> 2708 --> 110 --> 5678 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2386 --> 9543 --> 7958 --> 4489 --> 4694 --> 4142 --> 614 --> 4795 --> 5085 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 2983 --> 5817 --> 95 --> 4405 --> back
+Running command: front
+front: 1675
+Running command: rat
+Running command: iback
+inserted 8821
+Running command: rfront
+Running command: rat
+Running command: iback
+inserted 1698
+Running command: iat
+inserted 8327 at position 10
+Running command: front
+front: 2425
+Running command: rat
+Running command: back
+back: 1698
+Running command: rat
+Running command: rback
+Running command: iat
+inserted 4409 at position 21
+Running command: rfront
+Running command: ifront
+inserted 7456
+Running command: ifront
+inserted 5290
+Running command: rat
+Running command: rback
+Running command: at
+warning: couldn't get position 8328
+Running command: iat
+inserted 2197 at position 38
+Running command: back
+back: 4405
+Running command: ifront
+inserted 9971
+Running command: print
+front --> 9971 --> 5290 --> 7456 --> 3530 --> 861 --> 3241 --> 4368 --> 6182 --> 7226 --> 9202 --> 2708 --> 110 --> 8327 --> 5678 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2386 --> 9543 --> 7958 --> 4489 --> 4409 --> 4694 --> 4142 --> 614 --> 4795 --> 5085 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 2983 --> 5817 --> 95 --> 4405 --> back
+Running command: back
+back: 4405
+Running command: iat
+inserted 1699 at position 22
+Running command: iback
+inserted 3535
+Running command: print
+front --> 9971 --> 5290 --> 7456 --> 3530 --> 861 --> 3241 --> 4368 --> 6182 --> 7226 --> 9202 --> 2708 --> 110 --> 8327 --> 5678 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2386 --> 9543 --> 7958 --> 1699 --> 4489 --> 4409 --> 4694 --> 4142 --> 614 --> 4795 --> 5085 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 2983 --> 5817 --> 95 --> 4405 --> 3535 --> back
+Running command: back
+back: 3535
+Running command: printr
+back --> 3535 --> 4405 --> 95 --> 5817 --> 2983 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 5085 --> 4795 --> 614 --> 4142 --> 4694 --> 4409 --> 4489 --> 1699 --> 7958 --> 9543 --> 2386 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 8327 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 4368 --> 3241 --> 861 --> 3530 --> 7456 --> 5290 --> 9971 --> front
+Running command: back
+back: 3535
+Running command: size
+List length: 75
+Running command: at
+warning: couldn't get position 831
+Running command: empty
+list is not empty
+Running command: front
+front: 9971
+Running command: back
+back: 3535
+Running command: empty
+list is not empty
+Running command: rback
+Running command: rat
+Running command: at
+warning: couldn't get position 7129
+Running command: print
+front --> 9971 --> 5290 --> 7456 --> 3530 --> 861 --> 3241 --> 4368 --> 6182 --> 7226 --> 9202 --> 2708 --> 110 --> 8327 --> 5678 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2386 --> 9543 --> 7958 --> 1699 --> 4489 --> 4409 --> 4694 --> 4142 --> 614 --> 4795 --> 5085 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 2983 --> 5817 --> 95 --> 4405 --> back
+Running command: rat
+Running command: print
+front --> 9971 --> 5290 --> 7456 --> 3530 --> 861 --> 3241 --> 4368 --> 6182 --> 7226 --> 9202 --> 2708 --> 110 --> 8327 --> 5678 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2386 --> 9543 --> 7958 --> 1699 --> 4489 --> 4409 --> 4694 --> 4142 --> 614 --> 4795 --> 5085 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 2983 --> 5817 --> 95 --> 4405 --> back
+Running command: ifront
+inserted 9399
+Running command: printr
+back --> 4405 --> 95 --> 5817 --> 2983 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 5085 --> 4795 --> 614 --> 4142 --> 4694 --> 4409 --> 4489 --> 1699 --> 7958 --> 9543 --> 2386 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 8327 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 4368 --> 3241 --> 861 --> 3530 --> 7456 --> 5290 --> 9971 --> 9399 --> front
+Running command: iat
+inserted 6966 at position 1
+Running command: at
+warning: couldn't get position 4800
+Running command: rfront
+Running command: print
+front --> 6966 --> 9971 --> 5290 --> 7456 --> 3530 --> 861 --> 3241 --> 4368 --> 6182 --> 7226 --> 9202 --> 2708 --> 110 --> 8327 --> 5678 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2386 --> 9543 --> 7958 --> 1699 --> 4489 --> 4409 --> 4694 --> 4142 --> 614 --> 4795 --> 5085 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 2983 --> 5817 --> 95 --> 4405 --> back
+Running command: front
+front: 6966
+Running command: rback
+Running command: back
+back: 95
+Running command: front
+front: 6966
+Running command: iback
+inserted 541
+Running command: front
+front: 6966
+Running command: printr
+back --> 541 --> 95 --> 5817 --> 2983 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 5085 --> 4795 --> 614 --> 4142 --> 4694 --> 4409 --> 4489 --> 1699 --> 7958 --> 9543 --> 2386 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 8327 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 4368 --> 3241 --> 861 --> 3530 --> 7456 --> 5290 --> 9971 --> 6966 --> front
+Running command: printr
+back --> 541 --> 95 --> 5817 --> 2983 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 5085 --> 4795 --> 614 --> 4142 --> 4694 --> 4409 --> 4489 --> 1699 --> 7958 --> 9543 --> 2386 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 8327 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 4368 --> 3241 --> 861 --> 3530 --> 7456 --> 5290 --> 9971 --> 6966 --> front
+Running command: back
+back: 541
+Running command: rfront
+Running command: iat
+inserted 1609 at position 7
+Running command: size
+List length: 75
+Running command: rback
+Running command: rat
+Running command: ifront
+inserted 9348
+Running command: print
+front --> 9348 --> 9971 --> 5290 --> 7456 --> 3530 --> 861 --> 3241 --> 4368 --> 1609 --> 6182 --> 7226 --> 9202 --> 2708 --> 110 --> 8327 --> 5678 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2386 --> 9543 --> 7958 --> 1699 --> 4489 --> 4409 --> 4694 --> 4142 --> 614 --> 4795 --> 5085 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 2983 --> 5817 --> 95 --> back
+Running command: rat
+Running command: empty
+list is not empty
+Running command: printr
+back --> 95 --> 5817 --> 2983 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 5085 --> 4795 --> 614 --> 4142 --> 4694 --> 4409 --> 4489 --> 1699 --> 7958 --> 9543 --> 2386 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 8327 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 1609 --> 4368 --> 3241 --> 861 --> 3530 --> 7456 --> 5290 --> 9971 --> 9348 --> front
+Running command: iat
+inserted 241 at position 22
+Running command: empty
+list is not empty
+Running command: printr
+back --> 95 --> 5817 --> 2983 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 5085 --> 4795 --> 614 --> 4142 --> 4694 --> 4409 --> 4489 --> 1699 --> 7958 --> 9543 --> 241 --> 2386 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 8327 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 1609 --> 4368 --> 3241 --> 861 --> 3530 --> 7456 --> 5290 --> 9971 --> 9348 --> front
+Running command: size
+List length: 76
+Running command: rat
+Running command: rback
+Running command: size
+List length: 75
+Running command: printr
+back --> 5817 --> 2983 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 5085 --> 4795 --> 614 --> 4142 --> 4694 --> 4409 --> 4489 --> 1699 --> 7958 --> 9543 --> 241 --> 2386 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 8327 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 1609 --> 4368 --> 3241 --> 861 --> 3530 --> 7456 --> 5290 --> 9971 --> 9348 --> front
+Running command: rback
+Running command: rat
+Running command: size
+List length: 74
+Running command: iback
+inserted 8833
+Running command: size
+List length: 75
+Running command: printr
+back --> 8833 --> 2983 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 5085 --> 4795 --> 614 --> 4142 --> 4694 --> 4409 --> 4489 --> 1699 --> 7958 --> 9543 --> 241 --> 2386 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 8327 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 1609 --> 4368 --> 3241 --> 861 --> 3530 --> 7456 --> 5290 --> 9971 --> 9348 --> front
+Running command: printr
+back --> 8833 --> 2983 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 5085 --> 4795 --> 614 --> 4142 --> 4694 --> 4409 --> 4489 --> 1699 --> 7958 --> 9543 --> 241 --> 2386 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 8327 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 1609 --> 4368 --> 3241 --> 861 --> 3530 --> 7456 --> 5290 --> 9971 --> 9348 --> front
+Running command: at
+warning: couldn't get position 633
+Running command: print
+front --> 9348 --> 9971 --> 5290 --> 7456 --> 3530 --> 861 --> 3241 --> 4368 --> 1609 --> 6182 --> 7226 --> 9202 --> 2708 --> 110 --> 8327 --> 5678 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2386 --> 241 --> 9543 --> 7958 --> 1699 --> 4489 --> 4409 --> 4694 --> 4142 --> 614 --> 4795 --> 5085 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 2983 --> 8833 --> back
+Running command: front
+front: 9348
+Running command: print
+front --> 9348 --> 9971 --> 5290 --> 7456 --> 3530 --> 861 --> 3241 --> 4368 --> 1609 --> 6182 --> 7226 --> 9202 --> 2708 --> 110 --> 8327 --> 5678 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2386 --> 241 --> 9543 --> 7958 --> 1699 --> 4489 --> 4409 --> 4694 --> 4142 --> 614 --> 4795 --> 5085 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 2983 --> 8833 --> back
+Running command: back
+back: 8833
+Running command: empty
+list is not empty
+Running command: size
+List length: 75
+Running command: at
+warning: couldn't get position 1876
+Running command: at
+warning: couldn't get position 8194
+Running command: empty
+list is not empty
+Running command: print
+front --> 9348 --> 9971 --> 5290 --> 7456 --> 3530 --> 861 --> 3241 --> 4368 --> 1609 --> 6182 --> 7226 --> 9202 --> 2708 --> 110 --> 8327 --> 5678 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2386 --> 241 --> 9543 --> 7958 --> 1699 --> 4489 --> 4409 --> 4694 --> 4142 --> 614 --> 4795 --> 5085 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 2983 --> 8833 --> back
+Running command: ifront
+inserted 4326
+Running command: empty
+list is not empty
+Running command: printr
+back --> 8833 --> 2983 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 5085 --> 4795 --> 614 --> 4142 --> 4694 --> 4409 --> 4489 --> 1699 --> 7958 --> 9543 --> 241 --> 2386 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 8327 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 1609 --> 4368 --> 3241 --> 861 --> 3530 --> 7456 --> 5290 --> 9971 --> 9348 --> 4326 --> front
+Running command: iback
+inserted 5250
+Running command: empty
+list is not empty
+Running command: rat
+Running command: iback
+inserted 7659
+Running command: at
+warning: couldn't get position 1511
+Running command: size
+List length: 78
+Running command: size
+List length: 78
+Running command: rback
+Running command: print
+front --> 4326 --> 9348 --> 9971 --> 5290 --> 7456 --> 3530 --> 861 --> 3241 --> 4368 --> 1609 --> 6182 --> 7226 --> 9202 --> 2708 --> 110 --> 8327 --> 5678 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2386 --> 241 --> 9543 --> 7958 --> 1699 --> 4489 --> 4409 --> 4694 --> 4142 --> 614 --> 4795 --> 5085 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 2983 --> 8833 --> 5250 --> back
+Running command: empty
+list is not empty
+Running command: rfront
+Running command: back
+back: 5250
+Running command: iat
+inserted 3383 at position 25
+Running command: rat
+Running command: printr
+back --> 5250 --> 8833 --> 2983 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 5085 --> 4795 --> 614 --> 4142 --> 4694 --> 4409 --> 4489 --> 1699 --> 3383 --> 7958 --> 9543 --> 241 --> 2386 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 8327 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 1609 --> 4368 --> 3241 --> 861 --> 3530 --> 7456 --> 5290 --> 9971 --> 9348 --> front
+Running command: size
+List length: 77
+Running command: front
+front: 9348
+Running command: front
+front: 9348
+Running command: at
+warning: couldn't get position 7312
+Running command: print
+front --> 9348 --> 9971 --> 5290 --> 7456 --> 3530 --> 861 --> 3241 --> 4368 --> 1609 --> 6182 --> 7226 --> 9202 --> 2708 --> 110 --> 8327 --> 5678 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2386 --> 241 --> 9543 --> 7958 --> 3383 --> 1699 --> 4489 --> 4409 --> 4694 --> 4142 --> 614 --> 4795 --> 5085 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 2983 --> 8833 --> 5250 --> back
+Running command: rback
+Running command: empty
+list is not empty
+Running command: size
+List length: 76
+Running command: front
+front: 9348
+Running command: back
+back: 8833
+Running command: rat
+Running command: rback
+Running command: rfront
+Running command: front
+front: 9971
+Running command: at
+warning: couldn't get position 6718
+Running command: rfront
+Running command: printr
+back --> 2983 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 5085 --> 4795 --> 614 --> 4142 --> 4694 --> 4409 --> 4489 --> 1699 --> 3383 --> 7958 --> 9543 --> 241 --> 2386 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 8327 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 1609 --> 4368 --> 3241 --> 861 --> 3530 --> 7456 --> 5290 --> front
+Running command: empty
+list is not empty
+Running command: at
+warning: couldn't get position 9068
+Running command: rat
+Running command: back
+back: 2983
+Running command: rat
+Running command: printr
+back --> 2983 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 5085 --> 4795 --> 614 --> 4142 --> 4694 --> 4409 --> 4489 --> 1699 --> 3383 --> 7958 --> 9543 --> 241 --> 2386 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 8327 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 1609 --> 4368 --> 3241 --> 861 --> 3530 --> 7456 --> 5290 --> front
+Running command: rat
+Running command: front
+front: 5290
+Running command: printr
+back --> 2983 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 5085 --> 4795 --> 614 --> 4142 --> 4694 --> 4409 --> 4489 --> 1699 --> 3383 --> 7958 --> 9543 --> 241 --> 2386 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 8327 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 1609 --> 4368 --> 3241 --> 861 --> 3530 --> 7456 --> 5290 --> front
+Running command: rback
+Running command: iback
+inserted 8319
+Running command: iback
+inserted 509
+Running command: print
+front --> 5290 --> 7456 --> 3530 --> 861 --> 3241 --> 4368 --> 1609 --> 6182 --> 7226 --> 9202 --> 2708 --> 110 --> 8327 --> 5678 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2386 --> 241 --> 9543 --> 7958 --> 3383 --> 1699 --> 4489 --> 4409 --> 4694 --> 4142 --> 614 --> 4795 --> 5085 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 8319 --> 509 --> back
+Running command: size
+List length: 74
+Running command: iback
+inserted 7745
+Running command: rat
+Running command: at
+warning: couldn't get position 4209
+Running command: print
+front --> 5290 --> 7456 --> 3530 --> 861 --> 3241 --> 4368 --> 1609 --> 6182 --> 7226 --> 9202 --> 2708 --> 110 --> 8327 --> 5678 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2386 --> 241 --> 9543 --> 7958 --> 3383 --> 1699 --> 4489 --> 4409 --> 4694 --> 4142 --> 614 --> 4795 --> 5085 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 8319 --> 509 --> 7745 --> back
+Running command: iback
+inserted 7184
+Running command: iback
+inserted 1211
+Running command: rat
+Running command: front
+front: 5290
+Running command: print
+front --> 5290 --> 7456 --> 3530 --> 861 --> 3241 --> 4368 --> 1609 --> 6182 --> 7226 --> 9202 --> 2708 --> 110 --> 8327 --> 5678 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2386 --> 241 --> 9543 --> 7958 --> 3383 --> 1699 --> 4489 --> 4409 --> 4694 --> 4142 --> 614 --> 4795 --> 5085 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 8319 --> 509 --> 7745 --> 7184 --> 1211 --> back
+Running command: ifront
+inserted 8362
+Running command: empty
+list is not empty
+Running command: size
+List length: 78
+Running command: print
+front --> 8362 --> 5290 --> 7456 --> 3530 --> 861 --> 3241 --> 4368 --> 1609 --> 6182 --> 7226 --> 9202 --> 2708 --> 110 --> 8327 --> 5678 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2386 --> 241 --> 9543 --> 7958 --> 3383 --> 1699 --> 4489 --> 4409 --> 4694 --> 4142 --> 614 --> 4795 --> 5085 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 8319 --> 509 --> 7745 --> 7184 --> 1211 --> back
+Running command: at
+warning: couldn't get position 1588
+Running command: iat
+inserted 456 at position 46
+Running command: back
+back: 1211
+Running command: rat
+Running command: size
+List length: 79
+Running command: rback
+Running command: at
+warning: couldn't get position 6293
+Running command: iat
+inserted 7898 at position 31
+Running command: rfront
+Running command: empty
+list is not empty
+Running command: iat
+inserted 9693 at position 38
+Running command: rback
+Running command: ifront
+inserted 8236
+Running command: printr
+back --> 7745 --> 509 --> 8319 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 456 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 9693 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 5085 --> 4795 --> 7898 --> 614 --> 4142 --> 4694 --> 4409 --> 4489 --> 1699 --> 3383 --> 7958 --> 9543 --> 241 --> 2386 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 8327 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 1609 --> 4368 --> 3241 --> 861 --> 3530 --> 7456 --> 5290 --> 8236 --> front
+Running command: back
+back: 7745
+Running command: print
+front --> 8236 --> 5290 --> 7456 --> 3530 --> 861 --> 3241 --> 4368 --> 1609 --> 6182 --> 7226 --> 9202 --> 2708 --> 110 --> 8327 --> 5678 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2386 --> 241 --> 9543 --> 7958 --> 3383 --> 1699 --> 4489 --> 4409 --> 4694 --> 4142 --> 614 --> 7898 --> 4795 --> 5085 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 9693 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 456 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 8319 --> 509 --> 7745 --> back
+Running command: iback
+inserted 3426
+Running command: printr
+back --> 3426 --> 7745 --> 509 --> 8319 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 456 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 9693 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 5085 --> 4795 --> 7898 --> 614 --> 4142 --> 4694 --> 4409 --> 4489 --> 1699 --> 3383 --> 7958 --> 9543 --> 241 --> 2386 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 8327 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 1609 --> 4368 --> 3241 --> 861 --> 3530 --> 7456 --> 5290 --> 8236 --> front
+Running command: front
+front: 8236
+Running command: print
+front --> 8236 --> 5290 --> 7456 --> 3530 --> 861 --> 3241 --> 4368 --> 1609 --> 6182 --> 7226 --> 9202 --> 2708 --> 110 --> 8327 --> 5678 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2386 --> 241 --> 9543 --> 7958 --> 3383 --> 1699 --> 4489 --> 4409 --> 4694 --> 4142 --> 614 --> 7898 --> 4795 --> 5085 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 9693 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 456 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 8319 --> 509 --> 7745 --> 3426 --> back
+Running command: rback
+Running command: back
+back: 7745
+Running command: rback
+Running command: printr
+back --> 509 --> 8319 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 456 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 9693 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 5085 --> 4795 --> 7898 --> 614 --> 4142 --> 4694 --> 4409 --> 4489 --> 1699 --> 3383 --> 7958 --> 9543 --> 241 --> 2386 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 8327 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 1609 --> 4368 --> 3241 --> 861 --> 3530 --> 7456 --> 5290 --> 8236 --> front
+Running command: back
+back: 509
+Running command: rfront
+Running command: printr
+back --> 509 --> 8319 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 456 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 9693 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 5085 --> 4795 --> 7898 --> 614 --> 4142 --> 4694 --> 4409 --> 4489 --> 1699 --> 3383 --> 7958 --> 9543 --> 241 --> 2386 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 8327 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 1609 --> 4368 --> 3241 --> 861 --> 3530 --> 7456 --> 5290 --> front
+Running command: size
+List length: 77
+Running command: print
+front --> 5290 --> 7456 --> 3530 --> 861 --> 3241 --> 4368 --> 1609 --> 6182 --> 7226 --> 9202 --> 2708 --> 110 --> 8327 --> 5678 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2386 --> 241 --> 9543 --> 7958 --> 3383 --> 1699 --> 4489 --> 4409 --> 4694 --> 4142 --> 614 --> 7898 --> 4795 --> 5085 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 9693 --> 8420 --> 5497 --> 9823 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 456 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 8319 --> 509 --> back
+Running command: iback
+inserted 1944
+Running command: size
+List length: 78
+Running command: back
+back: 1944
+Running command: iback
+inserted 7768
+Running command: rat
+Running command: iat
+inserted 2921 at position 19
+Running command: rfront
+Running command: rat
+Running command: ifront
+inserted 733
+Running command: printr
+back --> 7768 --> 1944 --> 509 --> 8319 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 456 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 9823 --> 5497 --> 8420 --> 9693 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 5085 --> 4795 --> 7898 --> 614 --> 4142 --> 4694 --> 4409 --> 4489 --> 1699 --> 3383 --> 7958 --> 9543 --> 241 --> 2386 --> 2921 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 8327 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 1609 --> 4368 --> 3241 --> 861 --> 3530 --> 7456 --> 733 --> front
+Running command: iat
+inserted 5421 at position 43
+Running command: empty
+list is not empty
+Running command: iat
+inserted 4787 at position 43
+Running command: ifront
+inserted 3239
+Running command: printr
+back --> 7768 --> 1944 --> 509 --> 8319 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 456 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 5421 --> 4787 --> 9823 --> 5497 --> 8420 --> 9693 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 5085 --> 4795 --> 7898 --> 614 --> 4142 --> 4694 --> 4409 --> 4489 --> 1699 --> 3383 --> 7958 --> 9543 --> 241 --> 2386 --> 2921 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 8327 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 1609 --> 4368 --> 3241 --> 861 --> 3530 --> 7456 --> 733 --> 3239 --> front
+Running command: ifront
+inserted 3611
+Running command: printr
+back --> 7768 --> 1944 --> 509 --> 8319 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 456 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 5421 --> 4787 --> 9823 --> 5497 --> 8420 --> 9693 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 5085 --> 4795 --> 7898 --> 614 --> 4142 --> 4694 --> 4409 --> 4489 --> 1699 --> 3383 --> 7958 --> 9543 --> 241 --> 2386 --> 2921 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 8327 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 1609 --> 4368 --> 3241 --> 861 --> 3530 --> 7456 --> 733 --> 3239 --> 3611 --> front
+Running command: print
+front --> 3611 --> 3239 --> 733 --> 7456 --> 3530 --> 861 --> 3241 --> 4368 --> 1609 --> 6182 --> 7226 --> 9202 --> 2708 --> 110 --> 8327 --> 5678 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2921 --> 2386 --> 241 --> 9543 --> 7958 --> 3383 --> 1699 --> 4489 --> 4409 --> 4694 --> 4142 --> 614 --> 7898 --> 4795 --> 5085 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 9693 --> 8420 --> 5497 --> 9823 --> 4787 --> 5421 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 456 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 8319 --> 509 --> 1944 --> 7768 --> back
+Running command: empty
+list is not empty
+Running command: back
+back: 7768
+Running command: at
+warning: couldn't get position 9675
+Running command: iat
+inserted 3749 at position 42
+Running command: empty
+list is not empty
+Running command: ifront
+inserted 3277
+Running command: iback
+inserted 2490
+Running command: rat
+Running command: printr
+back --> 2490 --> 7768 --> 1944 --> 509 --> 8319 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 456 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 5421 --> 4787 --> 9823 --> 5497 --> 8420 --> 3749 --> 9693 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 5085 --> 4795 --> 7898 --> 614 --> 4142 --> 4694 --> 4409 --> 4489 --> 1699 --> 3383 --> 7958 --> 9543 --> 241 --> 2386 --> 2921 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 8327 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 1609 --> 4368 --> 3241 --> 861 --> 3530 --> 7456 --> 733 --> 3239 --> 3611 --> 3277 --> front
+Running command: back
+back: 2490
+Running command: iat
+inserted 3477 at position 28
+Running command: print
+front --> 3277 --> 3611 --> 3239 --> 733 --> 7456 --> 3530 --> 861 --> 3241 --> 4368 --> 1609 --> 6182 --> 7226 --> 9202 --> 2708 --> 110 --> 8327 --> 5678 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2921 --> 2386 --> 241 --> 9543 --> 7958 --> 3383 --> 3477 --> 1699 --> 4489 --> 4409 --> 4694 --> 4142 --> 614 --> 7898 --> 4795 --> 5085 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 9693 --> 3749 --> 8420 --> 5497 --> 9823 --> 4787 --> 5421 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 456 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 8319 --> 509 --> 1944 --> 7768 --> 2490 --> back
+Running command: empty
+list is not empty
+Running command: empty
+list is not empty
+Running command: iback
+inserted 1477
+Running command: rat
+Running command: iback
+inserted 4619
+Running command: size
+List length: 90
+Running command: size
+List length: 90
+Running command: printr
+back --> 4619 --> 1477 --> 2490 --> 7768 --> 1944 --> 509 --> 8319 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 456 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 5421 --> 4787 --> 9823 --> 5497 --> 8420 --> 3749 --> 9693 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 5085 --> 4795 --> 7898 --> 614 --> 4142 --> 4694 --> 4409 --> 4489 --> 1699 --> 3477 --> 3383 --> 7958 --> 9543 --> 241 --> 2386 --> 2921 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 8327 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 1609 --> 4368 --> 3241 --> 861 --> 3530 --> 7456 --> 733 --> 3239 --> 3611 --> 3277 --> front
+Running command: rfront
+Running command: rat
+Running command: ifront
+inserted 5158
+Running command: iat
+inserted 6816 at position 38
+Running command: rback
+Running command: printr
+back --> 1477 --> 2490 --> 7768 --> 1944 --> 509 --> 8319 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 456 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 5421 --> 4787 --> 9823 --> 5497 --> 8420 --> 3749 --> 9693 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 6816 --> 5085 --> 4795 --> 7898 --> 614 --> 4142 --> 4694 --> 4409 --> 4489 --> 1699 --> 3477 --> 3383 --> 7958 --> 9543 --> 241 --> 2386 --> 2921 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 8327 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 1609 --> 4368 --> 3241 --> 861 --> 3530 --> 7456 --> 733 --> 3239 --> 3611 --> 5158 --> front
+Running command: at
+warning: couldn't get position 7423
+Running command: rat
+Running command: rat
+Running command: rat
+Running command: empty
+list is not empty
+Running command: iat
+inserted 1444 at position 47
+Running command: size
+List length: 91
+Running command: size
+List length: 91
+Running command: iback
+inserted 6213
+Running command: at
+warning: couldn't get position 9577
+Running command: rat
+Running command: rback
+Running command: printr
+back --> 1477 --> 2490 --> 7768 --> 1944 --> 509 --> 8319 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 456 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 5421 --> 4787 --> 9823 --> 5497 --> 1444 --> 8420 --> 3749 --> 9693 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 6816 --> 5085 --> 4795 --> 7898 --> 614 --> 4142 --> 4694 --> 4409 --> 4489 --> 1699 --> 3477 --> 3383 --> 7958 --> 9543 --> 241 --> 2386 --> 2921 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 8327 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 1609 --> 4368 --> 3241 --> 861 --> 3530 --> 7456 --> 733 --> 3239 --> 3611 --> 5158 --> front
+Running command: rat
+Running command: rat
+Running command: front
+front: 5158
+Running command: at
+warning: couldn't get position 1930
+Running command: size
+List length: 91
+Running command: at
+warning: couldn't get position 9233
+Running command: size
+List length: 91
+Running command: back
+back: 1477
+Running command: print
+front --> 5158 --> 3611 --> 3239 --> 733 --> 7456 --> 3530 --> 861 --> 3241 --> 4368 --> 1609 --> 6182 --> 7226 --> 9202 --> 2708 --> 110 --> 8327 --> 5678 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2921 --> 2386 --> 241 --> 9543 --> 7958 --> 3383 --> 3477 --> 1699 --> 4489 --> 4409 --> 4694 --> 4142 --> 614 --> 7898 --> 4795 --> 5085 --> 6816 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 9693 --> 3749 --> 8420 --> 1444 --> 5497 --> 9823 --> 4787 --> 5421 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 456 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 8319 --> 509 --> 1944 --> 7768 --> 2490 --> 1477 --> back
+Running command: front
+front: 5158
+Running command: ifront
+inserted 498
+Running command: rat
+Running command: rfront
+Running command: front
+front: 5158
+Running command: ifront
+inserted 4134
+Running command: printr
+back --> 1477 --> 2490 --> 7768 --> 1944 --> 509 --> 8319 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 456 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 5421 --> 4787 --> 9823 --> 5497 --> 1444 --> 8420 --> 3749 --> 9693 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 6816 --> 5085 --> 4795 --> 7898 --> 614 --> 4142 --> 4694 --> 4409 --> 4489 --> 1699 --> 3477 --> 3383 --> 7958 --> 9543 --> 241 --> 2386 --> 2921 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 8327 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 1609 --> 4368 --> 3241 --> 861 --> 3530 --> 7456 --> 733 --> 3239 --> 3611 --> 5158 --> 4134 --> front
+Running command: print
+front --> 4134 --> 5158 --> 3611 --> 3239 --> 733 --> 7456 --> 3530 --> 861 --> 3241 --> 4368 --> 1609 --> 6182 --> 7226 --> 9202 --> 2708 --> 110 --> 8327 --> 5678 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2921 --> 2386 --> 241 --> 9543 --> 7958 --> 3383 --> 3477 --> 1699 --> 4489 --> 4409 --> 4694 --> 4142 --> 614 --> 7898 --> 4795 --> 5085 --> 6816 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 9693 --> 3749 --> 8420 --> 1444 --> 5497 --> 9823 --> 4787 --> 5421 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 456 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 8319 --> 509 --> 1944 --> 7768 --> 2490 --> 1477 --> back
+Running command: rback
+Running command: iback
+inserted 9802
+Running command: rat
+Running command: printr
+back --> 9802 --> 2490 --> 7768 --> 1944 --> 509 --> 8319 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 456 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 5421 --> 4787 --> 9823 --> 5497 --> 1444 --> 8420 --> 3749 --> 9693 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 6816 --> 5085 --> 4795 --> 7898 --> 614 --> 4142 --> 4694 --> 4409 --> 4489 --> 1699 --> 3477 --> 3383 --> 7958 --> 9543 --> 241 --> 2386 --> 2921 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 8327 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 1609 --> 4368 --> 3241 --> 861 --> 3530 --> 7456 --> 733 --> 3239 --> 3611 --> 5158 --> 4134 --> front
+Running command: print
+front --> 4134 --> 5158 --> 3611 --> 3239 --> 733 --> 7456 --> 3530 --> 861 --> 3241 --> 4368 --> 1609 --> 6182 --> 7226 --> 9202 --> 2708 --> 110 --> 8327 --> 5678 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2921 --> 2386 --> 241 --> 9543 --> 7958 --> 3383 --> 3477 --> 1699 --> 4489 --> 4409 --> 4694 --> 4142 --> 614 --> 7898 --> 4795 --> 5085 --> 6816 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 9693 --> 3749 --> 8420 --> 1444 --> 5497 --> 9823 --> 4787 --> 5421 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 456 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 8319 --> 509 --> 1944 --> 7768 --> 2490 --> 9802 --> back
+Running command: iback
+inserted 5415
+Running command: printr
+back --> 5415 --> 9802 --> 2490 --> 7768 --> 1944 --> 509 --> 8319 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 456 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 5421 --> 4787 --> 9823 --> 5497 --> 1444 --> 8420 --> 3749 --> 9693 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 6816 --> 5085 --> 4795 --> 7898 --> 614 --> 4142 --> 4694 --> 4409 --> 4489 --> 1699 --> 3477 --> 3383 --> 7958 --> 9543 --> 241 --> 2386 --> 2921 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 8327 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 1609 --> 4368 --> 3241 --> 861 --> 3530 --> 7456 --> 733 --> 3239 --> 3611 --> 5158 --> 4134 --> front
+Running command: print
+front --> 4134 --> 5158 --> 3611 --> 3239 --> 733 --> 7456 --> 3530 --> 861 --> 3241 --> 4368 --> 1609 --> 6182 --> 7226 --> 9202 --> 2708 --> 110 --> 8327 --> 5678 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2921 --> 2386 --> 241 --> 9543 --> 7958 --> 3383 --> 3477 --> 1699 --> 4489 --> 4409 --> 4694 --> 4142 --> 614 --> 7898 --> 4795 --> 5085 --> 6816 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 9693 --> 3749 --> 8420 --> 1444 --> 5497 --> 9823 --> 4787 --> 5421 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 456 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 8319 --> 509 --> 1944 --> 7768 --> 2490 --> 9802 --> 5415 --> back
+Running command: empty
+list is not empty
+Running command: back
+back: 5415
+Running command: iat
+inserted 630 at position 25
+Running command: at
+warning: couldn't get position 8098
+Running command: printr
+back --> 5415 --> 9802 --> 2490 --> 7768 --> 1944 --> 509 --> 8319 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 456 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 5421 --> 4787 --> 9823 --> 5497 --> 1444 --> 8420 --> 3749 --> 9693 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 6816 --> 5085 --> 4795 --> 7898 --> 614 --> 4142 --> 4694 --> 4409 --> 4489 --> 1699 --> 3477 --> 3383 --> 7958 --> 9543 --> 241 --> 630 --> 2386 --> 2921 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 8327 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 1609 --> 4368 --> 3241 --> 861 --> 3530 --> 7456 --> 733 --> 3239 --> 3611 --> 5158 --> 4134 --> front
+Running command: rback
+Running command: print
+front --> 4134 --> 5158 --> 3611 --> 3239 --> 733 --> 7456 --> 3530 --> 861 --> 3241 --> 4368 --> 1609 --> 6182 --> 7226 --> 9202 --> 2708 --> 110 --> 8327 --> 5678 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2921 --> 2386 --> 630 --> 241 --> 9543 --> 7958 --> 3383 --> 3477 --> 1699 --> 4489 --> 4409 --> 4694 --> 4142 --> 614 --> 7898 --> 4795 --> 5085 --> 6816 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 9693 --> 3749 --> 8420 --> 1444 --> 5497 --> 9823 --> 4787 --> 5421 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 456 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 8319 --> 509 --> 1944 --> 7768 --> 2490 --> 9802 --> back
+Running command: rfront
+Running command: at
+warning: couldn't get position 1267
+Running command: empty
+list is not empty
+Running command: size
+List length: 92
+Running command: size
+List length: 92
+Running command: back
+back: 9802
+Running command: at
+warning: couldn't get position 4961
+Running command: printr
+back --> 9802 --> 2490 --> 7768 --> 1944 --> 509 --> 8319 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 456 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 5421 --> 4787 --> 9823 --> 5497 --> 1444 --> 8420 --> 3749 --> 9693 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 6816 --> 5085 --> 4795 --> 7898 --> 614 --> 4142 --> 4694 --> 4409 --> 4489 --> 1699 --> 3477 --> 3383 --> 7958 --> 9543 --> 241 --> 630 --> 2386 --> 2921 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 8327 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 1609 --> 4368 --> 3241 --> 861 --> 3530 --> 7456 --> 733 --> 3239 --> 3611 --> 5158 --> front
+Running command: print
+front --> 5158 --> 3611 --> 3239 --> 733 --> 7456 --> 3530 --> 861 --> 3241 --> 4368 --> 1609 --> 6182 --> 7226 --> 9202 --> 2708 --> 110 --> 8327 --> 5678 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2921 --> 2386 --> 630 --> 241 --> 9543 --> 7958 --> 3383 --> 3477 --> 1699 --> 4489 --> 4409 --> 4694 --> 4142 --> 614 --> 7898 --> 4795 --> 5085 --> 6816 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 9693 --> 3749 --> 8420 --> 1444 --> 5497 --> 9823 --> 4787 --> 5421 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 456 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 8319 --> 509 --> 1944 --> 7768 --> 2490 --> 9802 --> back
+Running command: ifront
+inserted 458
+Running command: back
+back: 9802
+Running command: iat
+inserted 1545 at position 25
+Running command: printr
+back --> 9802 --> 2490 --> 7768 --> 1944 --> 509 --> 8319 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 456 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 5421 --> 4787 --> 9823 --> 5497 --> 1444 --> 8420 --> 3749 --> 9693 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 6816 --> 5085 --> 4795 --> 7898 --> 614 --> 4142 --> 4694 --> 4409 --> 4489 --> 1699 --> 3477 --> 3383 --> 7958 --> 9543 --> 241 --> 630 --> 1545 --> 2386 --> 2921 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 8327 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 1609 --> 4368 --> 3241 --> 861 --> 3530 --> 7456 --> 733 --> 3239 --> 3611 --> 5158 --> 458 --> front
+Running command: at
+warning: couldn't get position 1273
+Running command: at
+warning: couldn't get position 4582
+Running command: rfront
+Running command: back
+back: 9802
+Running command: empty
+list is not empty
+Running command: ifront
+inserted 3523
+Running command: at
+warning: couldn't get position 5545
+Running command: front
+front: 3523
+Running command: rfront
+Running command: printr
+back --> 9802 --> 2490 --> 7768 --> 1944 --> 509 --> 8319 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 456 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 5421 --> 4787 --> 9823 --> 5497 --> 1444 --> 8420 --> 3749 --> 9693 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 6816 --> 5085 --> 4795 --> 7898 --> 614 --> 4142 --> 4694 --> 4409 --> 4489 --> 1699 --> 3477 --> 3383 --> 7958 --> 9543 --> 241 --> 630 --> 1545 --> 2386 --> 2921 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 8327 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 1609 --> 4368 --> 3241 --> 861 --> 3530 --> 7456 --> 733 --> 3239 --> 3611 --> 5158 --> front
+Running command: size
+List length: 93
+Running command: rat
+Running command: iat
+inserted 7577 at position 9
+Running command: iat
+inserted 6559 at position 29
+Running command: empty
+list is not empty
+Running command: back
+back: 9802
+Running command: size
+List length: 95
+Running command: size
+List length: 95
+Running command: size
+List length: 95
+Running command: back
+back: 9802
+Running command: print
+front --> 5158 --> 3611 --> 3239 --> 733 --> 7456 --> 3530 --> 861 --> 3241 --> 4368 --> 7577 --> 1609 --> 6182 --> 7226 --> 9202 --> 2708 --> 110 --> 8327 --> 5678 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2921 --> 2386 --> 1545 --> 630 --> 241 --> 9543 --> 6559 --> 7958 --> 3383 --> 3477 --> 1699 --> 4489 --> 4409 --> 4694 --> 4142 --> 614 --> 7898 --> 4795 --> 5085 --> 6816 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 9693 --> 3749 --> 8420 --> 1444 --> 5497 --> 9823 --> 4787 --> 5421 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 456 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 8319 --> 509 --> 1944 --> 7768 --> 2490 --> 9802 --> back
+Running command: at
+warning: couldn't get position 3787
+Running command: iback
+inserted 7736
+Running command: ifront
+inserted 190
+Running command: ifront
+inserted 8179
+Running command: at
+warning: couldn't get position 3408
+Running command: size
+List length: 98
+Running command: rat
+Running command: back
+back: 7736
+Running command: printr
+back --> 7736 --> 9802 --> 2490 --> 7768 --> 1944 --> 509 --> 8319 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 456 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 5421 --> 4787 --> 9823 --> 5497 --> 1444 --> 8420 --> 3749 --> 9693 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 6816 --> 5085 --> 4795 --> 7898 --> 614 --> 4142 --> 4694 --> 4409 --> 4489 --> 1699 --> 3477 --> 3383 --> 7958 --> 6559 --> 9543 --> 241 --> 630 --> 1545 --> 2386 --> 2921 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 8327 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 1609 --> 7577 --> 4368 --> 3241 --> 861 --> 3530 --> 7456 --> 733 --> 3239 --> 3611 --> 5158 --> 190 --> 8179 --> front
+Running command: rback
+Running command: rfront
+Running command: printr
+back --> 9802 --> 2490 --> 7768 --> 1944 --> 509 --> 8319 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 456 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 5421 --> 4787 --> 9823 --> 5497 --> 1444 --> 8420 --> 3749 --> 9693 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 6816 --> 5085 --> 4795 --> 7898 --> 614 --> 4142 --> 4694 --> 4409 --> 4489 --> 1699 --> 3477 --> 3383 --> 7958 --> 6559 --> 9543 --> 241 --> 630 --> 1545 --> 2386 --> 2921 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 8327 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 1609 --> 7577 --> 4368 --> 3241 --> 861 --> 3530 --> 7456 --> 733 --> 3239 --> 3611 --> 5158 --> 190 --> front
+Running command: front
+front: 190
+Running command: ifront
+inserted 8045
+Running command: print
+front --> 8045 --> 190 --> 5158 --> 3611 --> 3239 --> 733 --> 7456 --> 3530 --> 861 --> 3241 --> 4368 --> 7577 --> 1609 --> 6182 --> 7226 --> 9202 --> 2708 --> 110 --> 8327 --> 5678 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2921 --> 2386 --> 1545 --> 630 --> 241 --> 9543 --> 6559 --> 7958 --> 3383 --> 3477 --> 1699 --> 4489 --> 4409 --> 4694 --> 4142 --> 614 --> 7898 --> 4795 --> 5085 --> 6816 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 9693 --> 3749 --> 8420 --> 1444 --> 5497 --> 9823 --> 4787 --> 5421 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 456 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 8319 --> 509 --> 1944 --> 7768 --> 2490 --> 9802 --> back
+Running command: iback
+inserted 1276
+Running command: size
+List length: 98
+Running command: rfront
+Running command: iback
+inserted 8540
+Running command: rback
+Running command: print
+front --> 190 --> 5158 --> 3611 --> 3239 --> 733 --> 7456 --> 3530 --> 861 --> 3241 --> 4368 --> 7577 --> 1609 --> 6182 --> 7226 --> 9202 --> 2708 --> 110 --> 8327 --> 5678 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2921 --> 2386 --> 1545 --> 630 --> 241 --> 9543 --> 6559 --> 7958 --> 3383 --> 3477 --> 1699 --> 4489 --> 4409 --> 4694 --> 4142 --> 614 --> 7898 --> 4795 --> 5085 --> 6816 --> 7052 --> 9453 --> 8935 --> 6463 --> 3009 --> 9693 --> 3749 --> 8420 --> 1444 --> 5497 --> 9823 --> 4787 --> 5421 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 456 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 8319 --> 509 --> 1944 --> 7768 --> 2490 --> 9802 --> 1276 --> back
+Running command: iback
+inserted 1698
+Running command: empty
+list is not empty
+Running command: rfront
+Running command: back
+back: 1698
+Running command: empty
+list is not empty
+Running command: rat
+Running command: rat
+Running command: size
+List length: 97
+Running command: back
+back: 1698
+Running command: rback
+Running command: ifront
+inserted 7089
+Running command: printr
+back --> 1276 --> 9802 --> 2490 --> 7768 --> 1944 --> 509 --> 8319 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 456 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 5421 --> 4787 --> 9823 --> 5497 --> 1444 --> 8420 --> 3749 --> 9693 --> 3009 --> 6463 --> 8935 --> 9453 --> 7052 --> 6816 --> 5085 --> 4795 --> 7898 --> 614 --> 4142 --> 4694 --> 4409 --> 4489 --> 1699 --> 3477 --> 3383 --> 7958 --> 6559 --> 9543 --> 241 --> 630 --> 1545 --> 2386 --> 2921 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 5678 --> 8327 --> 110 --> 2708 --> 9202 --> 7226 --> 6182 --> 1609 --> 7577 --> 4368 --> 3241 --> 861 --> 3530 --> 7456 --> 733 --> 3239 --> 3611 --> 5158 --> 7089 --> front
+Running command: iat
+inserted 388 at position 45
+Running command: rfront
+Running command: back
+back: 1276
+Running command: rat
+Running command: rfront
+Running command: rat
+Running command: print
+front --> 3611 --> 3239 --> 733 --> 7456 --> 3530 --> 861 --> 3241 --> 4368 --> 7577 --> 1609 --> 6182 --> 7226 --> 9202 --> 2708 --> 110 --> 8327 --> 5678 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2921 --> 2386 --> 1545 --> 630 --> 241 --> 9543 --> 6559 --> 7958 --> 3383 --> 3477 --> 1699 --> 4489 --> 4409 --> 4694 --> 4142 --> 614 --> 7898 --> 4795 --> 5085 --> 6816 --> 7052 --> 388 --> 9453 --> 8935 --> 6463 --> 3009 --> 9693 --> 3749 --> 8420 --> 1444 --> 5497 --> 9823 --> 4787 --> 5421 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 456 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 8319 --> 509 --> 1944 --> 7768 --> 2490 --> 9802 --> 1276 --> back
+Running command: ifront
+inserted 5271
+Running command: iat
+inserted 5557 at position 15
+Running command: empty
+list is not empty
+Running command: size
+List length: 98
+Running command: empty
+list is not empty
+Running command: iback
+inserted 9493
+Running command: iback
+inserted 1272
+Running command: ifront
+inserted 7275
+Running command: ifront
+inserted 8938
+Running command: rat
+Running command: ifront
+inserted 2277
+Running command: size
+List length: 103
+Running command: front
+front: 2277
+Running command: at
+warning: couldn't get position 6492
+Running command: rback
+Running command: empty
+list is not empty
+Running command: print
+front --> 2277 --> 8938 --> 7275 --> 5271 --> 3611 --> 3239 --> 733 --> 7456 --> 3530 --> 861 --> 3241 --> 4368 --> 7577 --> 1609 --> 6182 --> 7226 --> 9202 --> 2708 --> 5557 --> 110 --> 8327 --> 5678 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2921 --> 2386 --> 1545 --> 630 --> 241 --> 9543 --> 6559 --> 7958 --> 3383 --> 3477 --> 1699 --> 4489 --> 4409 --> 4694 --> 4142 --> 614 --> 7898 --> 4795 --> 5085 --> 6816 --> 7052 --> 388 --> 9453 --> 8935 --> 6463 --> 3009 --> 9693 --> 3749 --> 8420 --> 1444 --> 5497 --> 9823 --> 4787 --> 5421 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 456 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 8319 --> 509 --> 1944 --> 7768 --> 2490 --> 9802 --> 1276 --> 9493 --> back
+Running command: print
+front --> 2277 --> 8938 --> 7275 --> 5271 --> 3611 --> 3239 --> 733 --> 7456 --> 3530 --> 861 --> 3241 --> 4368 --> 7577 --> 1609 --> 6182 --> 7226 --> 9202 --> 2708 --> 5557 --> 110 --> 8327 --> 5678 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2921 --> 2386 --> 1545 --> 630 --> 241 --> 9543 --> 6559 --> 7958 --> 3383 --> 3477 --> 1699 --> 4489 --> 4409 --> 4694 --> 4142 --> 614 --> 7898 --> 4795 --> 5085 --> 6816 --> 7052 --> 388 --> 9453 --> 8935 --> 6463 --> 3009 --> 9693 --> 3749 --> 8420 --> 1444 --> 5497 --> 9823 --> 4787 --> 5421 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 456 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 8319 --> 509 --> 1944 --> 7768 --> 2490 --> 9802 --> 1276 --> 9493 --> back
+Running command: rat
+Running command: iat
+inserted 9681 at position 16
+Running command: iback
+inserted 3684
+Running command: back
+back: 3684
+Running command: iat
+inserted 523 at position 23
+Running command: ifront
+inserted 2131
+Running command: front
+front: 2131
+Running command: size
+List length: 106
+Running command: empty
+list is not empty
+Running command: ifront
+inserted 7680
+Running command: rback
+Running command: empty
+list is not empty
+Running command: front
+front: 7680
+Running command: back
+back: 9493
+Running command: empty
+list is not empty
+Running command: ifront
+inserted 8442
+Running command: back
+back: 9493
+Running command: print
+front --> 8442 --> 7680 --> 2131 --> 2277 --> 8938 --> 7275 --> 5271 --> 3611 --> 3239 --> 733 --> 7456 --> 3530 --> 861 --> 3241 --> 4368 --> 7577 --> 1609 --> 6182 --> 7226 --> 9681 --> 9202 --> 2708 --> 5557 --> 110 --> 8327 --> 5678 --> 523 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2921 --> 2386 --> 1545 --> 630 --> 241 --> 9543 --> 6559 --> 7958 --> 3383 --> 3477 --> 1699 --> 4489 --> 4409 --> 4694 --> 4142 --> 614 --> 7898 --> 4795 --> 5085 --> 6816 --> 7052 --> 388 --> 9453 --> 8935 --> 6463 --> 3009 --> 9693 --> 3749 --> 8420 --> 1444 --> 5497 --> 9823 --> 4787 --> 5421 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 456 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 8319 --> 509 --> 1944 --> 7768 --> 2490 --> 9802 --> 1276 --> 9493 --> back
+Running command: rback
+Running command: ifront
+inserted 8617
+Running command: rback
+Running command: print
+front --> 8617 --> 8442 --> 7680 --> 2131 --> 2277 --> 8938 --> 7275 --> 5271 --> 3611 --> 3239 --> 733 --> 7456 --> 3530 --> 861 --> 3241 --> 4368 --> 7577 --> 1609 --> 6182 --> 7226 --> 9681 --> 9202 --> 2708 --> 5557 --> 110 --> 8327 --> 5678 --> 523 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2921 --> 2386 --> 1545 --> 630 --> 241 --> 9543 --> 6559 --> 7958 --> 3383 --> 3477 --> 1699 --> 4489 --> 4409 --> 4694 --> 4142 --> 614 --> 7898 --> 4795 --> 5085 --> 6816 --> 7052 --> 388 --> 9453 --> 8935 --> 6463 --> 3009 --> 9693 --> 3749 --> 8420 --> 1444 --> 5497 --> 9823 --> 4787 --> 5421 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 456 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 8319 --> 509 --> 1944 --> 7768 --> 2490 --> 9802 --> back
+Running command: size
+List length: 106
+Running command: printr
+back --> 9802 --> 2490 --> 7768 --> 1944 --> 509 --> 8319 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 456 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 5421 --> 4787 --> 9823 --> 5497 --> 1444 --> 8420 --> 3749 --> 9693 --> 3009 --> 6463 --> 8935 --> 9453 --> 388 --> 7052 --> 6816 --> 5085 --> 4795 --> 7898 --> 614 --> 4142 --> 4694 --> 4409 --> 4489 --> 1699 --> 3477 --> 3383 --> 7958 --> 6559 --> 9543 --> 241 --> 630 --> 1545 --> 2386 --> 2921 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 523 --> 5678 --> 8327 --> 110 --> 5557 --> 2708 --> 9202 --> 9681 --> 7226 --> 6182 --> 1609 --> 7577 --> 4368 --> 3241 --> 861 --> 3530 --> 7456 --> 733 --> 3239 --> 3611 --> 5271 --> 7275 --> 8938 --> 2277 --> 2131 --> 7680 --> 8442 --> 8617 --> front
+Running command: front
+front: 8617
+Running command: iback
+inserted 8456
+Running command: printr
+back --> 8456 --> 9802 --> 2490 --> 7768 --> 1944 --> 509 --> 8319 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 456 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 5421 --> 4787 --> 9823 --> 5497 --> 1444 --> 8420 --> 3749 --> 9693 --> 3009 --> 6463 --> 8935 --> 9453 --> 388 --> 7052 --> 6816 --> 5085 --> 4795 --> 7898 --> 614 --> 4142 --> 4694 --> 4409 --> 4489 --> 1699 --> 3477 --> 3383 --> 7958 --> 6559 --> 9543 --> 241 --> 630 --> 1545 --> 2386 --> 2921 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 523 --> 5678 --> 8327 --> 110 --> 5557 --> 2708 --> 9202 --> 9681 --> 7226 --> 6182 --> 1609 --> 7577 --> 4368 --> 3241 --> 861 --> 3530 --> 7456 --> 733 --> 3239 --> 3611 --> 5271 --> 7275 --> 8938 --> 2277 --> 2131 --> 7680 --> 8442 --> 8617 --> front
+Running command: back
+back: 8456
+Running command: print
+front --> 8617 --> 8442 --> 7680 --> 2131 --> 2277 --> 8938 --> 7275 --> 5271 --> 3611 --> 3239 --> 733 --> 7456 --> 3530 --> 861 --> 3241 --> 4368 --> 7577 --> 1609 --> 6182 --> 7226 --> 9681 --> 9202 --> 2708 --> 5557 --> 110 --> 8327 --> 5678 --> 523 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2921 --> 2386 --> 1545 --> 630 --> 241 --> 9543 --> 6559 --> 7958 --> 3383 --> 3477 --> 1699 --> 4489 --> 4409 --> 4694 --> 4142 --> 614 --> 7898 --> 4795 --> 5085 --> 6816 --> 7052 --> 388 --> 9453 --> 8935 --> 6463 --> 3009 --> 9693 --> 3749 --> 8420 --> 1444 --> 5497 --> 9823 --> 4787 --> 5421 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 456 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 8319 --> 509 --> 1944 --> 7768 --> 2490 --> 9802 --> 8456 --> back
+Running command: rfront
+Running command: ifront
+inserted 7473
+Running command: front
+front: 7473
+Running command: iat
+inserted 4469 at position 21
+Running command: printr
+back --> 8456 --> 9802 --> 2490 --> 7768 --> 1944 --> 509 --> 8319 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 456 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 5421 --> 4787 --> 9823 --> 5497 --> 1444 --> 8420 --> 3749 --> 9693 --> 3009 --> 6463 --> 8935 --> 9453 --> 388 --> 7052 --> 6816 --> 5085 --> 4795 --> 7898 --> 614 --> 4142 --> 4694 --> 4409 --> 4489 --> 1699 --> 3477 --> 3383 --> 7958 --> 6559 --> 9543 --> 241 --> 630 --> 1545 --> 2386 --> 2921 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 523 --> 5678 --> 8327 --> 110 --> 5557 --> 2708 --> 9202 --> 4469 --> 9681 --> 7226 --> 6182 --> 1609 --> 7577 --> 4368 --> 3241 --> 861 --> 3530 --> 7456 --> 733 --> 3239 --> 3611 --> 5271 --> 7275 --> 8938 --> 2277 --> 2131 --> 7680 --> 8442 --> 7473 --> front
+Running command: rback
+Running command: at
+warning: couldn't get position 7046
+Running command: rback
+Running command: rfront
+Running command: at
+warning: couldn't get position 2254
+Running command: ifront
+inserted 9417
+Running command: printr
+back --> 2490 --> 7768 --> 1944 --> 509 --> 8319 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 456 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 5421 --> 4787 --> 9823 --> 5497 --> 1444 --> 8420 --> 3749 --> 9693 --> 3009 --> 6463 --> 8935 --> 9453 --> 388 --> 7052 --> 6816 --> 5085 --> 4795 --> 7898 --> 614 --> 4142 --> 4694 --> 4409 --> 4489 --> 1699 --> 3477 --> 3383 --> 7958 --> 6559 --> 9543 --> 241 --> 630 --> 1545 --> 2386 --> 2921 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 523 --> 5678 --> 8327 --> 110 --> 5557 --> 2708 --> 9202 --> 4469 --> 9681 --> 7226 --> 6182 --> 1609 --> 7577 --> 4368 --> 3241 --> 861 --> 3530 --> 7456 --> 733 --> 3239 --> 3611 --> 5271 --> 7275 --> 8938 --> 2277 --> 2131 --> 7680 --> 8442 --> 9417 --> front
+Running command: ifront
+inserted 8896
+Running command: iat
+inserted 9930 at position 38
+Running command: back
+back: 2490
+Running command: iat
+inserted 8146 at position 13
+Running command: rat
+Running command: rat
+Running command: back
+back: 2490
+Running command: front
+front: 8896
+Running command: at
+warning: couldn't get position 4919
+Running command: rfront
+Running command: rfront
+Running command: front
+front: 8442
+Running command: empty
+list is not empty
+Running command: iat
+inserted 1323 at position 3
+Running command: front
+front: 8442
+Running command: size
+List length: 108
+Running command: rfront
+Running command: rat
+Running command: size
+List length: 107
+Running command: empty
+list is not empty
+Running command: back
+back: 2490
+Running command: iat
+inserted 9643 at position 39
+Running command: rfront
+Running command: rfront
+Running command: size
+List length: 106
+Running command: iat
+inserted 7932 at position 47
+Running command: rback
+Running command: rback
+Running command: rfront
+Running command: front
+front: 2277
+Running command: iat
+inserted 890 at position 20
+Running command: at
+warning: couldn't get position 2665
+Running command: rat
+Running command: print
+front --> 2277 --> 8938 --> 7275 --> 5271 --> 3611 --> 3239 --> 733 --> 7456 --> 8146 --> 3530 --> 861 --> 3241 --> 4368 --> 7577 --> 1609 --> 6182 --> 7226 --> 9681 --> 4469 --> 9202 --> 890 --> 2708 --> 5557 --> 110 --> 8327 --> 5678 --> 523 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2921 --> 2386 --> 1545 --> 9930 --> 630 --> 9643 --> 241 --> 9543 --> 6559 --> 7958 --> 3383 --> 3477 --> 1699 --> 4489 --> 4409 --> 7932 --> 4694 --> 4142 --> 614 --> 7898 --> 4795 --> 5085 --> 6816 --> 7052 --> 388 --> 9453 --> 8935 --> 6463 --> 3009 --> 9693 --> 3749 --> 8420 --> 1444 --> 5497 --> 9823 --> 4787 --> 5421 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 456 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 8319 --> 509 --> 1944 --> back
+Running command: at
+warning: couldn't get position 5201
+Running command: rat
+Running command: rat
+Running command: empty
+list is not empty
+Running command: ifront
+inserted 1517
+Running command: rat
+Running command: print
+front --> 1517 --> 2277 --> 8938 --> 7275 --> 5271 --> 3611 --> 3239 --> 733 --> 7456 --> 8146 --> 3530 --> 861 --> 3241 --> 4368 --> 7577 --> 1609 --> 6182 --> 7226 --> 9681 --> 4469 --> 9202 --> 890 --> 2708 --> 5557 --> 110 --> 8327 --> 5678 --> 523 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2921 --> 2386 --> 1545 --> 9930 --> 630 --> 9643 --> 241 --> 9543 --> 6559 --> 7958 --> 3383 --> 3477 --> 1699 --> 4489 --> 4409 --> 7932 --> 4694 --> 4142 --> 614 --> 7898 --> 4795 --> 5085 --> 6816 --> 7052 --> 388 --> 9453 --> 8935 --> 6463 --> 3009 --> 9693 --> 3749 --> 8420 --> 1444 --> 5497 --> 9823 --> 4787 --> 5421 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 456 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 8319 --> 509 --> 1944 --> back
+Running command: front
+front: 1517
+Running command: ifront
+inserted 327
+Running command: back
+back: 1944
+Running command: iback
+inserted 6966
+Running command: rfront
+Running command: print
+front --> 1517 --> 2277 --> 8938 --> 7275 --> 5271 --> 3611 --> 3239 --> 733 --> 7456 --> 8146 --> 3530 --> 861 --> 3241 --> 4368 --> 7577 --> 1609 --> 6182 --> 7226 --> 9681 --> 4469 --> 9202 --> 890 --> 2708 --> 5557 --> 110 --> 8327 --> 5678 --> 523 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2921 --> 2386 --> 1545 --> 9930 --> 630 --> 9643 --> 241 --> 9543 --> 6559 --> 7958 --> 3383 --> 3477 --> 1699 --> 4489 --> 4409 --> 7932 --> 4694 --> 4142 --> 614 --> 7898 --> 4795 --> 5085 --> 6816 --> 7052 --> 388 --> 9453 --> 8935 --> 6463 --> 3009 --> 9693 --> 3749 --> 8420 --> 1444 --> 5497 --> 9823 --> 4787 --> 5421 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 456 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 8319 --> 509 --> 1944 --> 6966 --> back
+Running command: at
+warning: couldn't get position 3023
+Running command: rat
+Running command: rback
+Running command: iat
+inserted 8492 at position 9
+Running command: rfront
+Running command: printr
+back --> 1944 --> 509 --> 8319 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 456 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 5421 --> 4787 --> 9823 --> 5497 --> 1444 --> 8420 --> 3749 --> 9693 --> 3009 --> 6463 --> 8935 --> 9453 --> 388 --> 7052 --> 6816 --> 5085 --> 4795 --> 7898 --> 614 --> 4142 --> 4694 --> 7932 --> 4409 --> 4489 --> 1699 --> 3477 --> 3383 --> 7958 --> 6559 --> 9543 --> 241 --> 9643 --> 630 --> 9930 --> 1545 --> 2386 --> 2921 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 523 --> 5678 --> 8327 --> 110 --> 5557 --> 2708 --> 890 --> 9202 --> 4469 --> 9681 --> 7226 --> 6182 --> 1609 --> 7577 --> 4368 --> 3241 --> 861 --> 3530 --> 8146 --> 8492 --> 7456 --> 733 --> 3239 --> 3611 --> 5271 --> 7275 --> 8938 --> 2277 --> front
+Running command: ifront
+inserted 8209
+Running command: rat
+Running command: iback
+inserted 1617
+Running command: front
+front: 8209
+Running command: size
+List length: 108
+Running command: iback
+inserted 1430
+Running command: iat
+inserted 5536 at position 7
+Running command: empty
+list is not empty
+Running command: front
+front: 8209
+Running command: size
+List length: 110
+Running command: print
+front --> 8209 --> 2277 --> 8938 --> 7275 --> 5271 --> 3611 --> 3239 --> 5536 --> 733 --> 7456 --> 8492 --> 8146 --> 3530 --> 861 --> 3241 --> 4368 --> 7577 --> 1609 --> 6182 --> 7226 --> 9681 --> 4469 --> 9202 --> 890 --> 2708 --> 5557 --> 110 --> 8327 --> 5678 --> 523 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2921 --> 2386 --> 1545 --> 9930 --> 630 --> 9643 --> 241 --> 9543 --> 6559 --> 7958 --> 3383 --> 3477 --> 1699 --> 4489 --> 4409 --> 7932 --> 4694 --> 4142 --> 614 --> 7898 --> 4795 --> 5085 --> 6816 --> 7052 --> 388 --> 9453 --> 8935 --> 6463 --> 3009 --> 9693 --> 3749 --> 8420 --> 1444 --> 5497 --> 9823 --> 4787 --> 5421 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 456 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 8319 --> 509 --> 1944 --> 1617 --> 1430 --> back
+Running command: back
+back: 1430
+Running command: empty
+list is not empty
+Running command: empty
+list is not empty
+Running command: empty
+list is not empty
+Running command: iback
+inserted 4625
+Running command: size
+List length: 111
+Running command: size
+List length: 111
+Running command: front
+front: 8209
+Running command: print
+front --> 8209 --> 2277 --> 8938 --> 7275 --> 5271 --> 3611 --> 3239 --> 5536 --> 733 --> 7456 --> 8492 --> 8146 --> 3530 --> 861 --> 3241 --> 4368 --> 7577 --> 1609 --> 6182 --> 7226 --> 9681 --> 4469 --> 9202 --> 890 --> 2708 --> 5557 --> 110 --> 8327 --> 5678 --> 523 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2921 --> 2386 --> 1545 --> 9930 --> 630 --> 9643 --> 241 --> 9543 --> 6559 --> 7958 --> 3383 --> 3477 --> 1699 --> 4489 --> 4409 --> 7932 --> 4694 --> 4142 --> 614 --> 7898 --> 4795 --> 5085 --> 6816 --> 7052 --> 388 --> 9453 --> 8935 --> 6463 --> 3009 --> 9693 --> 3749 --> 8420 --> 1444 --> 5497 --> 9823 --> 4787 --> 5421 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 456 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 8319 --> 509 --> 1944 --> 1617 --> 1430 --> 4625 --> back
+Running command: front
+front: 8209
+Running command: size
+List length: 111
+Running command: ifront
+inserted 7229
+Running command: rat
+Running command: printr
+back --> 4625 --> 1430 --> 1617 --> 1944 --> 509 --> 8319 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 456 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 5421 --> 4787 --> 9823 --> 5497 --> 1444 --> 8420 --> 3749 --> 9693 --> 3009 --> 6463 --> 8935 --> 9453 --> 388 --> 7052 --> 6816 --> 5085 --> 4795 --> 7898 --> 614 --> 4142 --> 4694 --> 7932 --> 4409 --> 4489 --> 1699 --> 3477 --> 3383 --> 7958 --> 6559 --> 9543 --> 241 --> 9643 --> 630 --> 9930 --> 1545 --> 2386 --> 2921 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 523 --> 5678 --> 8327 --> 110 --> 5557 --> 2708 --> 890 --> 9202 --> 4469 --> 9681 --> 7226 --> 6182 --> 1609 --> 7577 --> 4368 --> 3241 --> 861 --> 3530 --> 8146 --> 8492 --> 7456 --> 733 --> 5536 --> 3239 --> 3611 --> 5271 --> 7275 --> 8938 --> 2277 --> 8209 --> 7229 --> front
+Running command: empty
+list is not empty
+Running command: iat
+inserted 2680 at position 10
+Running command: iback
+inserted 6541
+Running command: rat
+Running command: printr
+back --> 6541 --> 4625 --> 1430 --> 1617 --> 1944 --> 509 --> 8319 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 456 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 5421 --> 4787 --> 9823 --> 5497 --> 1444 --> 8420 --> 3749 --> 9693 --> 3009 --> 6463 --> 8935 --> 9453 --> 388 --> 7052 --> 6816 --> 5085 --> 4795 --> 7898 --> 614 --> 4142 --> 4694 --> 7932 --> 4409 --> 4489 --> 1699 --> 3477 --> 3383 --> 7958 --> 6559 --> 9543 --> 241 --> 9643 --> 630 --> 9930 --> 1545 --> 2386 --> 2921 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 523 --> 5678 --> 8327 --> 110 --> 5557 --> 2708 --> 890 --> 9202 --> 4469 --> 9681 --> 7226 --> 6182 --> 1609 --> 7577 --> 4368 --> 3241 --> 861 --> 3530 --> 8146 --> 8492 --> 7456 --> 2680 --> 733 --> 5536 --> 3239 --> 3611 --> 5271 --> 7275 --> 8938 --> 2277 --> 8209 --> 7229 --> front
+Running command: ifront
+inserted 8131
+Running command: printr
+back --> 6541 --> 4625 --> 1430 --> 1617 --> 1944 --> 509 --> 8319 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 456 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 5421 --> 4787 --> 9823 --> 5497 --> 1444 --> 8420 --> 3749 --> 9693 --> 3009 --> 6463 --> 8935 --> 9453 --> 388 --> 7052 --> 6816 --> 5085 --> 4795 --> 7898 --> 614 --> 4142 --> 4694 --> 7932 --> 4409 --> 4489 --> 1699 --> 3477 --> 3383 --> 7958 --> 6559 --> 9543 --> 241 --> 9643 --> 630 --> 9930 --> 1545 --> 2386 --> 2921 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 523 --> 5678 --> 8327 --> 110 --> 5557 --> 2708 --> 890 --> 9202 --> 4469 --> 9681 --> 7226 --> 6182 --> 1609 --> 7577 --> 4368 --> 3241 --> 861 --> 3530 --> 8146 --> 8492 --> 7456 --> 2680 --> 733 --> 5536 --> 3239 --> 3611 --> 5271 --> 7275 --> 8938 --> 2277 --> 8209 --> 7229 --> 8131 --> front
+Running command: empty
+list is not empty
+Running command: at
+warning: couldn't get position 616
+Running command: back
+back: 6541
+Running command: empty
+list is not empty
+Running command: rat
+Running command: size
+List length: 115
+Running command: at
+warning: couldn't get position 1237
+Running command: print
+front --> 8131 --> 7229 --> 8209 --> 2277 --> 8938 --> 7275 --> 5271 --> 3611 --> 3239 --> 5536 --> 733 --> 2680 --> 7456 --> 8492 --> 8146 --> 3530 --> 861 --> 3241 --> 4368 --> 7577 --> 1609 --> 6182 --> 7226 --> 9681 --> 4469 --> 9202 --> 890 --> 2708 --> 5557 --> 110 --> 8327 --> 5678 --> 523 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2921 --> 2386 --> 1545 --> 9930 --> 630 --> 9643 --> 241 --> 9543 --> 6559 --> 7958 --> 3383 --> 3477 --> 1699 --> 4489 --> 4409 --> 7932 --> 4694 --> 4142 --> 614 --> 7898 --> 4795 --> 5085 --> 6816 --> 7052 --> 388 --> 9453 --> 8935 --> 6463 --> 3009 --> 9693 --> 3749 --> 8420 --> 1444 --> 5497 --> 9823 --> 4787 --> 5421 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 456 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 8319 --> 509 --> 1944 --> 1617 --> 1430 --> 4625 --> 6541 --> back
+Running command: print
+front --> 8131 --> 7229 --> 8209 --> 2277 --> 8938 --> 7275 --> 5271 --> 3611 --> 3239 --> 5536 --> 733 --> 2680 --> 7456 --> 8492 --> 8146 --> 3530 --> 861 --> 3241 --> 4368 --> 7577 --> 1609 --> 6182 --> 7226 --> 9681 --> 4469 --> 9202 --> 890 --> 2708 --> 5557 --> 110 --> 8327 --> 5678 --> 523 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2921 --> 2386 --> 1545 --> 9930 --> 630 --> 9643 --> 241 --> 9543 --> 6559 --> 7958 --> 3383 --> 3477 --> 1699 --> 4489 --> 4409 --> 7932 --> 4694 --> 4142 --> 614 --> 7898 --> 4795 --> 5085 --> 6816 --> 7052 --> 388 --> 9453 --> 8935 --> 6463 --> 3009 --> 9693 --> 3749 --> 8420 --> 1444 --> 5497 --> 9823 --> 4787 --> 5421 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 456 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 8319 --> 509 --> 1944 --> 1617 --> 1430 --> 4625 --> 6541 --> back
+Running command: rfront
+Running command: rat
+Running command: size
+List length: 114
+Running command: rback
+Running command: size
+List length: 113
+Running command: rfront
+Running command: iback
+inserted 4869
+Running command: ifront
+inserted 6496
+Running command: iat
+inserted 2763 at position 6
+Running command: iat
+inserted 1230 at position 13
+Running command: rfront
+Running command: printr
+back --> 4869 --> 4625 --> 1430 --> 1617 --> 1944 --> 509 --> 8319 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 456 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 5421 --> 4787 --> 9823 --> 5497 --> 1444 --> 8420 --> 3749 --> 9693 --> 3009 --> 6463 --> 8935 --> 9453 --> 388 --> 7052 --> 6816 --> 5085 --> 4795 --> 7898 --> 614 --> 4142 --> 4694 --> 7932 --> 4409 --> 4489 --> 1699 --> 3477 --> 3383 --> 7958 --> 6559 --> 9543 --> 241 --> 9643 --> 630 --> 9930 --> 1545 --> 2386 --> 2921 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 523 --> 5678 --> 8327 --> 110 --> 5557 --> 2708 --> 890 --> 9202 --> 4469 --> 9681 --> 7226 --> 6182 --> 1609 --> 7577 --> 4368 --> 3241 --> 861 --> 3530 --> 8146 --> 8492 --> 1230 --> 7456 --> 2680 --> 733 --> 5536 --> 3239 --> 3611 --> 2763 --> 5271 --> 7275 --> 8938 --> 2277 --> 8209 --> front
+Running command: size
+List length: 115
+Running command: rfront
+Running command: empty
+list is not empty
+Running command: size
+List length: 114
+Running command: empty
+list is not empty
+Running command: front
+front: 2277
+Running command: iat
+inserted 4032 at position 10
+Running command: iback
+inserted 7336
+Running command: rfront
+Running command: empty
+list is not empty
+Running command: size
+List length: 115
+Running command: rback
+Running command: front
+front: 8938
+Running command: print
+front --> 8938 --> 7275 --> 5271 --> 2763 --> 3611 --> 3239 --> 5536 --> 733 --> 2680 --> 4032 --> 7456 --> 1230 --> 8492 --> 8146 --> 3530 --> 861 --> 3241 --> 4368 --> 7577 --> 1609 --> 6182 --> 7226 --> 9681 --> 4469 --> 9202 --> 890 --> 2708 --> 5557 --> 110 --> 8327 --> 5678 --> 523 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2921 --> 2386 --> 1545 --> 9930 --> 630 --> 9643 --> 241 --> 9543 --> 6559 --> 7958 --> 3383 --> 3477 --> 1699 --> 4489 --> 4409 --> 7932 --> 4694 --> 4142 --> 614 --> 7898 --> 4795 --> 5085 --> 6816 --> 7052 --> 388 --> 9453 --> 8935 --> 6463 --> 3009 --> 9693 --> 3749 --> 8420 --> 1444 --> 5497 --> 9823 --> 4787 --> 5421 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 456 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 8319 --> 509 --> 1944 --> 1617 --> 1430 --> 4625 --> 4869 --> back
+Running command: printr
+back --> 4869 --> 4625 --> 1430 --> 1617 --> 1944 --> 509 --> 8319 --> 9036 --> 5616 --> 673 --> 4027 --> 974 --> 1364 --> 9388 --> 7961 --> 7098 --> 4631 --> 9573 --> 5754 --> 2426 --> 7122 --> 8381 --> 8111 --> 8926 --> 635 --> 6332 --> 5889 --> 9995 --> 3330 --> 3161 --> 16 --> 3181 --> 6366 --> 9451 --> 456 --> 5241 --> 9218 --> 2197 --> 7968 --> 5293 --> 5421 --> 4787 --> 9823 --> 5497 --> 1444 --> 8420 --> 3749 --> 9693 --> 3009 --> 6463 --> 8935 --> 9453 --> 388 --> 7052 --> 6816 --> 5085 --> 4795 --> 7898 --> 614 --> 4142 --> 4694 --> 7932 --> 4409 --> 4489 --> 1699 --> 3477 --> 3383 --> 7958 --> 6559 --> 9543 --> 241 --> 9643 --> 630 --> 9930 --> 1545 --> 2386 --> 2921 --> 3111 --> 5480 --> 2946 --> 5535 --> 2793 --> 523 --> 5678 --> 8327 --> 110 --> 5557 --> 2708 --> 890 --> 9202 --> 4469 --> 9681 --> 7226 --> 6182 --> 1609 --> 7577 --> 4368 --> 3241 --> 861 --> 3530 --> 8146 --> 8492 --> 1230 --> 7456 --> 4032 --> 2680 --> 733 --> 5536 --> 3239 --> 3611 --> 2763 --> 5271 --> 7275 --> 8938 --> front
+Running command: print
+front --> 8938 --> 7275 --> 5271 --> 2763 --> 3611 --> 3239 --> 5536 --> 733 --> 2680 --> 4032 --> 7456 --> 1230 --> 8492 --> 8146 --> 3530 --> 861 --> 3241 --> 4368 --> 7577 --> 1609 --> 6182 --> 7226 --> 9681 --> 4469 --> 9202 --> 890 --> 2708 --> 5557 --> 110 --> 8327 --> 5678 --> 523 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2921 --> 2386 --> 1545 --> 9930 --> 630 --> 9643 --> 241 --> 9543 --> 6559 --> 7958 --> 3383 --> 3477 --> 1699 --> 4489 --> 4409 --> 7932 --> 4694 --> 4142 --> 614 --> 7898 --> 4795 --> 5085 --> 6816 --> 7052 --> 388 --> 9453 --> 8935 --> 6463 --> 3009 --> 9693 --> 3749 --> 8420 --> 1444 --> 5497 --> 9823 --> 4787 --> 5421 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 456 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 8319 --> 509 --> 1944 --> 1617 --> 1430 --> 4625 --> 4869 --> back
+Running command: back
+back: 4869
+Running command: ifront
+inserted 3233
+Running command: rfront
+Running command: ifront
+inserted 3130
+Running command: empty
+list is not empty
+Running command: print
+front --> 3130 --> 8938 --> 7275 --> 5271 --> 2763 --> 3611 --> 3239 --> 5536 --> 733 --> 2680 --> 4032 --> 7456 --> 1230 --> 8492 --> 8146 --> 3530 --> 861 --> 3241 --> 4368 --> 7577 --> 1609 --> 6182 --> 7226 --> 9681 --> 4469 --> 9202 --> 890 --> 2708 --> 5557 --> 110 --> 8327 --> 5678 --> 523 --> 2793 --> 5535 --> 2946 --> 5480 --> 3111 --> 2921 --> 2386 --> 1545 --> 9930 --> 630 --> 9643 --> 241 --> 9543 --> 6559 --> 7958 --> 3383 --> 3477 --> 1699 --> 4489 --> 4409 --> 7932 --> 4694 --> 4142 --> 614 --> 7898 --> 4795 --> 5085 --> 6816 --> 7052 --> 388 --> 9453 --> 8935 --> 6463 --> 3009 --> 9693 --> 3749 --> 8420 --> 1444 --> 5497 --> 9823 --> 4787 --> 5421 --> 5293 --> 7968 --> 2197 --> 9218 --> 5241 --> 456 --> 9451 --> 6366 --> 3181 --> 16 --> 3161 --> 3330 --> 9995 --> 5889 --> 6332 --> 635 --> 8926 --> 8111 --> 8381 --> 7122 --> 2426 --> 5754 --> 9573 --> 4631 --> 7098 --> 7961 --> 9388 --> 1364 --> 974 --> 4027 --> 673 --> 5616 --> 9036 --> 8319 --> 509 --> 1944 --> 1617 --> 1430 --> 4625 --> 4869 --> back
+Running command: rat
+Running command: empty
+list is not empty
+Running command: rback
+Running command: back
+back: 4625
